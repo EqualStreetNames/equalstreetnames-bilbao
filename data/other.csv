@@ -106,7 +106,6 @@ Artigabidea,,,,way
 "Aurrekoetxea kalea",,,,way
 "Autonomia kalea / Calle Autonomía",,,,way
 "Avenida Abandoibarra",,,,way
-"Avenida Askatasuna",,,,way
 "Avenida Askatasuna / Askatasuna etorbidea",,,,way
 "Avenida Bergara / Bergara etorbidea",,,,way
 "Avenida Enekuri",,,,way
@@ -588,7 +587,6 @@ Bolintxubidea,,,,way
 "Calle Xenpelar / Xenpelar kalea",,,,way
 "Calle Zabalbide",,,,way
 "Calle Zabalbide / Zabalbide kalea",,,,way
-"Calle Zamácola",,,,way
 "Calle Zamacola / Zamacola kalea",,,,way
 "Calle Zankoeta / Zankoeta kalea",,,,way
 "Calle Zorrotzabaso / Zorrotzabaso kalea",,,,way
@@ -828,6 +826,7 @@ Eskailerak,,,,way
 "Hiruki gunea",,,,way
 "Ibai kalea",,,,way
 "Ibaialde Parkea",,,,way
+"Ibaialde kalea / Calle Ibaialde",,,,way
 "Ibaiondo kalea",,,,way
 "Ibaizabal landa kalea / Calle Campa del Ibaizabal",,,,way
 "Ibarrekolanda kalea",,,,way
@@ -897,6 +896,7 @@ Iturrigorribidea,,,,way
 "Julian Zugazagoitia kalea",,,,way
 "Julio Urquijo kalea / Calle Julio Urquijo",,,,way
 "Julita Berrojalbiz kalea / Calle Julita Berrojalbiz",,,,way
+"Kadaguako igarobidea - Corredor del Cadagua",,,,way
 "Kadaguako korridorea - Corredor del Cadagua",,,,way
 "Kalamua kalea / Calle Calva",,,,way
 "Kanariar Uharteen zeharkalea / Travesía de las Islas Canarias",,,,way
@@ -1003,8 +1003,6 @@ Miramarbidea,,,,way
 "Muelle Olabeaga / Olabeaga kaia",,,,way
 "Muelle Ramón de la Sota y Llano",,,,way
 "Muelle Sirgueras / Zirgariak kaia",,,,way
-"Muelle Urazurrutia",,,,way
-"Muelle Urazurrutia / Urazurrutiko kaia",,,,way
 "Muelle de Evaristo Churruca y Brunet / Evaristo Churruca kaia",,,,way
 "Muelle de La Merced / Mesedeetako kaia",,,,way
 "Muelle de las Sirgueras",,,,way
@@ -1270,6 +1268,7 @@ Trokabidea,,,,way
 "Unibertsitate etorbidea",,,,way
 "Untzeta parrokoaren auzunea / Barriada Párroco Unzeta",,,,way
 "Untziola kalea",,,,way
+"Urazurrutia Kaia / Muelle de Urazurrutia",,,,way
 "Urazurrutia kalea",,,,way
 "Urazurrutia kalea / Calle Urazurrutia",,,,way
 "Uretamendi pasealekua",,,,way
@@ -1298,6 +1297,8 @@ Trokabidea,,,,way
 "Xoko kalea",,,,way
 "Zabalbide kalea",,,,way
 "Zabalburu enparantza",,,,way
+"Zamakola kalea",,,,way
+"Zamakola kalea / Calle Zamácola",,,,way
 "Zamudioko atea / Portal de Zamudio",,,,way
 "Zarandoa etorbidea / Avenida Zarandoa",,,,way
 "Zazelu auzoa",,,,way
