@@ -20,9 +20,11 @@ name,source,gender,wikidata,type
 "Andrés Isasi zeharkalea / Travesía de Andrés Isasi",wikidata,M,Q524358,way
 "Artetxe kondearen zumarkalea / Alameda del Conde Artetxe",wikidata,M,Q16493603,way
 "Astarloa kalea",wikidata,M,Q9054010,way
+"Avenida Lehendakari Aguirre / Agirre lehendakariaren etorbidea",wikidata,M,Q380878,way
 "Avenida Maurice Ravel / Maurice Ravel etorbidea",wikidata,M,Q1178,way
 "Avenida Sabino Arana / Sabino Arana etorbidea",wikidata,M,Q332663,way
 "Avenida Zumalacarregui / Zumalacarregui etorbidea",wikidata,M,Q717519,way
+"Avenida de Ramón y Cajal / Ramón y Cajal etorbidea",wikidata,M,Q150526,way
 "Avenida de Sabino Arana / Sabino Arana etorbidea",wikidata,M,Q332663,way
 "Calle Alcalde Felipe Uhagón / Felipe Uhagon alkatearen kalea",wikidata,M,Q25474130,way
 "Calle Andrés Eliseo de Mañaricua / Andres Eliseo de Mañaricua kalea",wikidata,M,Q12253516,way
@@ -49,7 +51,7 @@ name,source,gender,wikidata,type
 "Calle Francesc Macia / Francesc Macia kalea",wikidata,M,Q1806213,way
 "Calle García Salazar / Garcia Salazar kalea",wikidata,M,Q3259291,way
 "Calle General Concha / Concha jeneralaren kalea",wikidata,M,Q325762,way
-"Calle General Eguía / Egia jeneralaren kalea",wikidata,M,;Q3740224,way
+"Calle General Eguía / Egia jeneralaren kalea",wikidata,M,Q3740224,way
 "Calle General Salazar / Salazar jeneralaren kalea",wikidata,M,Q64767572,way
 "Calle Goya / Goya kalea",wikidata,M,Q5432,way
 "Calle Gregorio Balparda / Gregorio Balparda kalea",wikidata,M,Q5696786,way

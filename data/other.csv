@@ -56,6 +56,7 @@ name,source,gender,wikidata,type
 "Calle Illes Balears / Illes Balears kalea",wikidata,,Q5765,way
 "Calle Iruña / Iruña kalea",wikidata,,Q10282,way
 "Calle Islas Canarias - Kanariar Uharteen kalea",wikidata,,Q5813,way
+"Calle Islas Canarias / Kanariar Uharteen kalea",wikidata,,Q5813,way
 "Calle La Rioja / Errioxa kalea",wikidata,,Q5727,way
 "Calle Lekeitio / Lekeitio kalea",wikidata,,Q1227965,way
 "Calle Logroño / Logroño kalea",wikidata,,Q14325,way
@@ -65,7 +66,7 @@ name,source,gender,wikidata,type
 "Calle Monte Ganekogorta / Ganekogorta mendiaren kalea",wikidata,,Q557130,way
 "Calle Navarra / Nafarroa kalea",wikidata,,Q4018,way
 "Calle Nuestra Señora de Montserrat",wikidata,,Q301779,way
-"Calle Nueva / Kale Barria",wikidata,,Q12556141,way
+"Calle Nueva / Kale Barria",wikidata,,Q12544101,way
 "Calle Olite / Erriberri kalea",wikidata,,Q837062,way
 "Calle Salou / Salou kalea",wikidata,,Q662789,way
 "Calle Santander / Santander kalea",wikidata,,Q12233,way
@@ -88,9 +89,10 @@ name,source,gender,wikidata,type
 "Jesusen Bihotza plaza / Plaza del Sagrado Corazón de Jesús",wikidata,,Q408284,way
 "Kanariar Uharteen zeharkalea / Travesía de las Islas Canarias",wikidata,,Q5813,way
 "Konpostelako Done Jakue kalea / Calle Santiago de Compostela",wikidata,,Q14314,way
+"Montevideo etorbidea / Avenida de Montevideo",wikidata,,Q1335,way
 "Montserrat Andra Maria kalea / Calle Nuestra Señora de Montserrat",wikidata,,Q301779,way
 "Plaza Euskadi / Euskadi plaza",wikidata,,Q3995,way
-"Plaza Nueva / Plaza Barria",wikidata,,Q12556141,way
+"Plaza Nueva / Plaza Barria",wikidata,,Q12544101,way
 "Plaza Valle del Baztan / Baztan haranaren plaza",wikidata,,Q641755,way
 "Plaza de la Cantera",wikidata,,Q188040,way
 "Plaza del Ensanche",wikidata,,Q24207656,way
@@ -99,6 +101,7 @@ name,source,gender,wikidata,type
 "Puente Euskalduna - Euskalduna zubia",wikidata,,Q3396530,way
 "Puente de Deusto / Deustuko zubia",wikidata,,Q2007981,way
 "Puente del Diablo",wikidata,,Q6674,way
+"Ribera de Zorrotzaurre / Zorrotzaurreko erribera",wikidata,,Q13405126,way
 "Salbe zubia / Puente La Salve",wikidata,,Q6465160,way
 "Santutxu kalea / Calle Santutxu",wikidata,,Q968311,way
 "Sasiburu kalea",wikidata,,Q9077078,way
@@ -106,7 +109,6 @@ name,source,gender,wikidata,type
 "Trasera de calle Burgos / Burgos kalearen atzealdea",wikidata,,Q9580,way
 "Trenbideko etorbidea / Avenida del Ferrocarril",wikidata,,Q22667,way
 Zubizuri,wikidata,,Q227583,way
-aoiz/agoitz,wikidata,,Q2142215,way
 "1 Bilbao Galdakao Errepidea",,,,way
 "1 Bilbao-Galdakao Errepidea",,,,way
 "AP-8 Supersur",,,,way
@@ -120,7 +122,7 @@ aoiz/agoitz,wikidata,,Q2142215,way
 "Acceso Bilbao Arena",,,,way
 "Acceso Euskalduna",,,,way
 "Acceso N-634",,,,way
-"Acceso a Bilbao por el Norte (Asua-Enekuri)",,,,way
+"Acceso a Bilbao por el Norte (Enekuri - Asua)",,,,way
 "Acceso a Mina Primitiva",,,,way
 "Acceso a ascensor",,,,way
 "Acceso a huertas",,,,way
@@ -128,6 +130,7 @@ aoiz/agoitz,wikidata,,Q2142215,way
 "Agarre kalea / Calle del Agarre",,,,way
 "Agirre anaien kalea / Calle Hermanos Agirre",,,,way
 "Agirre lehendakariaren etorbidea",,,,way
+"Agoitz plaza",,,,way
 "Aita Donostia plaza",,,,way
 "Aita Esteban Pernet kalea",,,,way
 "Aita Patxi plaza",,,,way
@@ -164,7 +167,6 @@ Aranekobidea,,,,way
 "Arbolantxa bidea",,,,way
 "Arbolantxa zeharkalea / Travesía Arbolantxa",,,,way
 "Archer marinelaren kalea",,,,way
-"Área de Descanso",,,,way
 "Areatza kalea",,,,way
 "Areatzako zubia / Puente del Arenal",,,,way
 Arenal,,,,relation
@@ -205,11 +207,11 @@ Artigabidea,,,,way
 "Avenida Enekuri",,,,way
 "Avenida Enekuri / Enekuri etorbidea",,,,way
 "Avenida Gabriel Aresti",,,,way
+"Avenida Galleteras / Galletaginen etorbidea",,,,way
 "Avenida Jesus Galindez",,,,way
 "Avenida Juan Antonio Zunzunegui etorbidea",,,,way
 "Avenida Julián Gaiarre",,,,way
 "Avenida Kirikiño / Kirikiño etorbidea",,,,way
-"Avenida Lehendakari Aguirre / Agirre lehendakariaren etorbidea",,,,way
 "Avenida Madariaga / Madariaga etorbidea",,,,way
 "Avenida Miraflores",,,,way
 "Avenida Pau Casals",,,,way
@@ -222,7 +224,6 @@ Artigabidea,,,,way
 "Avenida Zumalacarregui",,,,way
 "Avenida Zumalacárregui",,,,way
 "Avenida de Montevideo",,,,way
-"Avenida de Ramón y Cajal / Ramón y Cajal etorbidea",,,,way
 "Avenida de las Universidades / Unibertsitate etorbidea",,,,way
 "Avenida del Ferrocarril",,,,way
 "Avril auzoa",,,,way
@@ -240,7 +241,6 @@ Artigabidea,,,,way
 "Barrio Betolatza",,,,way
 "Barrio Betolatza / Betolatza Auzoa",,,,way
 "Barrio Caserío Larrazabal / Larrazabal Baserria auzoa",,,,way
-"Barrio Gardeazabal / Gardeazabal auzoa",,,,way
 "Barrio Ignacio Miranda / Ignacio Miranda auzunea",,,,way
 "Barrio La Asunción",,,,way
 "Barrio Larrazabal",,,,way
@@ -293,6 +293,7 @@ Bidegorria,,,,way
 "Bilbo-Galdakao errepidea / Carretera Bilbao-Galdakao",,,,way
 "Bilbo-San Mamés sarbidea / Accesos Bilbao-San Mames",,,,way
 "Bilboko konsuletxearen plaza / Plaza Consulado de Bilbao",,,,way
+"Bilborako sarbidea iparraldetik (Asua-Enekuri)",,,,way
 "Bilintxi kalea",,,,way
 "Birjinetxe plaza / Plaza Birjinetxe",,,,way
 "Bizikidetasun plaza / Plaza de la Convivencia",,,,way
@@ -309,6 +310,7 @@ Bolintxubidea,,,,way
 "Buia etorbidea",,,,way
 "C. Juan Guisasola",,,,way
 "Cale Escultor Francisco Durrio / Francisco Durrio eskultorearen kalea",,,,way
+"Calle Alicia Aretxabaleta / Alicia Aretxabaleta kalea",,,,way
 "Calle Almirante Antonio Gaztañeta / Antonio Gaztañeta almirantearen kalea",,,,way
 "Calle Almirantes Oquendo / Okendo Almiranteen kalea",,,,way
 "Calle Alto de Kanpazar",,,,way
@@ -356,11 +358,13 @@ Bolintxubidea,,,,way
 "Calle Cantabria",,,,way
 "Calle Cantalojas / Cantalojas kalea",,,,way
 "Calle Cantera / Harrobi kalea",,,,way
+"Calle Cargueras / Zamaketari kalea",,,,way
 "Calle Carnicería Vieja / Arategizar kalea",,,,way
 "Calle Caserio Garro / Garro baserria kalea",,,,way
 "Calle Caserío Landaburu",,,,way
 "Calle Castaños / Castaños kalea",,,,way
 "Calle Cinturería / Gerrikogin kalea",,,,way
+"Calle Circo Amateur Club Deportivo",,,,way
 "Calle Circunvalación",,,,way
 "Calle Ciudadela / Ciudadela kalea",,,,way
 "Calle Claudio Gallastegi",,,,way
@@ -407,12 +411,10 @@ Bolintxubidea,,,,way
 "Calle Ibaialde / Ibaialde kalea",,,,way
 "Calle Indautxu / Indautxu kalea",,,,way
 "Calle Irala / Irala kalea",,,,way
-"Calle Islas Canarias / Kanariar Uharteen kalea",,,,way
 "Calle Iturribarria / Iturribarria kalea",,,,way
 "Calle Iturribide / Iturribide kalea",,,,way
-"Calle Iturrigorri",,,,way
 "Calle Izarra / Izarra kalea",,,,way
-"Calle Jaén / Jaen kalea",,,,way
+"Calle Jaén / Jaén kalea",,,,way
 "Calle Jardines / Jardines kalea",,,,way
 "Calle Jardines Gernika",,,,way
 "Calle Jardintxikerra / Jardintxikerra kalea",,,,way
@@ -480,7 +482,7 @@ Bolintxubidea,,,,way
 "Calle Músico Usandizaga",,,,way
 "Calle Naja / Naxa kalea",,,,way
 "Calle Nervión / Nerbioi kalea",,,,way
-"Calle Nicolás Alcorta / Nicolas Alcorta kalea",,,,way
+"Calle Nicolás Alcorta / Nikolas Alkorta kalea",,,,way
 "Calle Novia Salcedo / Novia Salcedo kalea",,,,way
 "Calle Olano",,,,way
 "Calle Orixe / Orixe kalea",,,,way
@@ -501,12 +503,12 @@ Bolintxubidea,,,,way
 "Calle Príncipe / Printzipe kalea",,,,way
 "Calle Príncipe de Viana / Vianako printzearen kalea",,,,way
 "Calle Republica de Begoña",,,,way
-"Calle República de Begoña",,,,way
 "Calle Ribera / Erribera kalea",,,,way
 "Calle Ricardo Arregui / Ricardo Arregui kalea",,,,way
 "Calle Ripa / Erripa kalea",,,,way
 "Calle Rodríguez Arias",,,,way
 "Calle Ronda / Erronda kalea",,,,way
+"Calle Sabina de la Cruz / Sabina de la Cruz kalea",,,,way
 "Calle Sagrada Familia / Familia Santuaren kalea",,,,way
 "Calle San Isidro",,,,way
 "Calle San Joaquín",,,,way
@@ -710,7 +712,7 @@ Eskailerak,,,,way
 "Gabriel Aresti etorbidea",,,,way
 "Gabriel Aresti hiribidea",,,,way
 "Gabriel Aresti kalea",,,,way
-"Galerias Isalo",,,,way
+"Galerías Isalo",,,,way
 "Garai lorategia / Jardín de Garai",,,,way
 "Garaizar kalea / Calle Garaizar",,,,way
 "Garate kalea / Calle Gárate",,,,way
@@ -801,6 +803,7 @@ Iturrigorribidea,,,,way
 "Jasokunde auzoa",,,,way
 "Jesus Galindez",,,,way
 "Jesus Galindez etorbidea / Avenida Jesus Galindez",,,,way
+"Jesus Galindez etorbidea / avenida Jesús Galíndez",,,,way
 "Joan XXIII Aita Santuaren plaza",,,,way
 "Jose Maria Agirre Ertzainaren plaza",,,,way
 "Jose Maria Lidon kalea / Calle José María Lidón",,,,way
@@ -823,7 +826,6 @@ Iturrigorribidea,,,,way
 "Julian Gaiarre etorbidea",,,,way
 "Julian Gaiarre etorbidea / Travesía de Julián Gaiarre",,,,way
 "Julian Gaiarre zeharkalea",,,,way
-"Julio Urquijo kalea / Calle Julio Urquijo",,,,way
 "Julita Berrojalbiz kalea / Calle Julita Berrojalbiz",,,,way
 "Kadaguako igarobidea - Corredor del Cadagua",,,,way
 "Kadaguako korridorea - Corredor del Cadagua",,,,way
@@ -851,7 +853,6 @@ Kobetabidea,,,,way
 "Landaorlegi kalea",,,,way
 "Langaran kalea",,,,way
 "Langaran kalea / Calle Langaran",,,,way
-"Langile etxealdea",,,,way
 "Larrakoetxe kalea / Calle Larrakoetxe",,,,way
 "Larraskitu etorbidea",,,,way
 "Larraskitu kalea / Avenida Larraskitu",,,,way
@@ -921,7 +922,6 @@ Miramarbidea,,,,way
 "Monasterio kalea / Calle Particular de Monasterio",,,,way
 "Montaño etxaldea",,,,way
 "Monte Avril bidea",,,,way
-"Montevideo etorbidea / Avenida de Montevideo",,,,way
 "More estrata",,,,way
 "Morgan kalea / Calle Morgan",,,,way
 "Muelle Olabeaga / Olabeaga kaia",,,,way
@@ -962,6 +962,7 @@ Pagasarribidea,,,,way
 "Parque Etxebarria",,,,way
 "Parque Recreativo Botica Vieja",,,,relation
 "Particular Allende kalea",,,,way
+"Pasarela Elorrieta-Monte Cabras",,,,way
 "Pasarela Enekuri-Monte Banderas",,,,way
 "Paseo Campo Volantín / Campo Volantin pasealekua",,,,way
 "Paseo La Laguna",,,,way
@@ -977,7 +978,6 @@ Pagasarribidea,,,,way
 "Pedro Cortés udal sendagilearen etxaldea / Grupo del Médico Municipal Pedro Cortés",,,,way
 "Pedro Martínez Artola kalea",,,,relation
 "Pintor A. Guezala",,,,way
-"Pista de Banderas a Bilbao",,,,way
 "Plaza Aita Donosti",,,,way
 "Plaza Ballets Olaeta",,,,way
 "Plaza Behekoa",,,,way
@@ -1030,7 +1030,6 @@ Pagasarribidea,,,,way
 "Puente Colgante de Santa Águeda-Echevarría (1956)",,,,way
 "Puente Etxebarri",,,,way
 "Puente Euskalduna / Euskalduna zubia",,,,way
-"Puente Frank Gehry zubia",,,,way
 "Puente La Ribera / Erribera zubia",,,,way
 "Puente Larraskitu",,,,way
 "Puente San Antón / San Antón zubia",,,,way
@@ -1038,16 +1037,14 @@ Pagasarribidea,,,,way
 "Puente de Cantalojas",,,,way
 "Puente de Deustu",,,,way
 "Puente de Deustu / Deustuko zubia",,,,way
-"Puente de Ibarrekolanda / Ibarrekolandako zubia",,,,way
 "Puente de La Merced / Mesedeetako zubia",,,,way
-"Puente de San Ignazio - San Inazio zubia",,,,way
+"Puente de San Ignacio / San Ignazioko zubia",,,,way
 "Puente de la Puerta",,,,way
 "Puente del Arenal / Areatzako zubia",,,,way
 "Puente del Ayuntamiento",,,,way
 "Puente del Funi",,,,way
 "Puente del Tubo",,,,way
 "Punte de la Ribera - Erriberako zubia",,,,way
-"Punto de encuentro",,,,way
 "Quintana kalea / Calle Quintana",,,,way
 "Rafael Moreno ""Pitxitxi"" pasealekua / Calle Rafael ""Moreno Pitxitxi""",,,,way
 "Ramón de la Sota kaia",,,,way
@@ -1066,7 +1063,6 @@ Pagasarribidea,,,,way
 "Ribera Ramón de la Sota y Llano",,,,way
 "Ribera de Bolueta kalea",,,,way
 "Ribera de Deusto / Deustuibarra",,,,way
-"Ribera de Zorrotzaurre / Zorrotzaurreko erribera",,,,way
 "Ricardo Bastida arkitektoaren plaza",,,,way
 "Rotonda de Don Bosco",,,,way
 "Rotonda de Don Bosco / Don Bosco biribilgunea",,,,way
@@ -1165,7 +1161,6 @@ Trokabidea,,,,way
 "Ugasko bidea",,,,way
 "Ugatz Parrokoaren Zeharkalea",,,,way
 "Ugatz parrokoaren zeharkalea / Calle del Párroco Ugatz",,,,way
-"Unibertsitate etorbidea",,,,way
 "Untzeta parrokoaren auzunea / Barriada Párroco Unzeta",,,,way
 "Untziola kalea",,,,way
 "Urazurrutia Kaia / Muelle de Urazurrutia",,,,way
@@ -1188,6 +1183,7 @@ Trokabidea,,,,way
 "Variante Este de Bilbao",,,,way
 "Variante Norte",,,,way
 "Variante Sur Metropolitana",,,,way
+"Vertical del Arrastaleku",,,,way
 "Viar Juan kalea",,,,way
 "Víctor Chavarri plaza / Plaza Víctor Chavarri",,,,way
 "Vista Alegre kalea / Calle Vista Alegre",,,,way
