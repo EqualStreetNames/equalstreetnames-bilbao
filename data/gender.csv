@@ -1,11 +1,13 @@
 name,source,gender,wikidata,type
 "Angela Figuera kalea / Calle Ángela Figuera",wikidata,F,Q608706,way
+"Barrio Andra Maria de Begoña / Begoñako Andra Mari auzoa",wikidata,F,Q345,way
 "Calle Ángela Figuera",wikidata,F,Q608706,way
 "Calle Benita Asas / Benita Asas kalea",wikidata,F,Q18643823,way
 "Calle Clara Campoamor",wikidata,F,Q3321142,way
 "Calle Dolores Ibarruri / Dolores Ibarruri kalea",wikidata,F,Q238955,way
 "Calle Filomena Baldezate / Filomena Baldezate kalea",wikidata,F,Q106168786,way
 "Calle María Díaz de Haro / Maria Diaz Haroko kalea",wikidata,F,Q3015902,way
+"Calle María Muñoz / Maria Muñoz kalea",wikidata,F,Q38319443,way
 "Calle Rafaela Ybarra / Rafaela Ybarra kalea",wikidata,F,Q2636771,way
 "Calle Santa María / Andra Maria kalea",wikidata,F,Q345,way
 "Clara Campoamor kalea",wikidata,F,Q3321142,way
@@ -40,11 +42,13 @@ name,source,gender,wikidata,type
 "Calle Colón de Larreátegui / Kolon Larreategi kalea",wikidata,M,Q93387219,way
 "Calle Cosme Echevarrieta / Cosme Echevarrieta kalea",wikidata,M,Q22222556,way
 "Calle Doctor Félix Landín / Felix Landin doktorearen kalea",wikidata,M,Q108305009,way
+"Calle Doctor Nicolás Achúcarro / Atxukarro doktorearen kalea",wikidata,M,Q3113964,way
 "Calle Egaña / Egaña kalea",wikidata,M,Q5401956,way
 "Calle Elcano / Elcano kalea",wikidata,M,Q201510,way
 "Calle Emilio Arrieta / Emilio Arrieta kalea",wikidata,M,Q953785,way
 "Calle Enrique Eguren / Enrique Eguren kalea",wikidata,M,Q12256880,way
 "Calle Ercilla / Ercilla kalea",wikidata,M,Q357620,way
+"Calle Estrauntza / Estrauntza kalea",wikidata,M,Q16493603,way
 "Calle Etxepare / Etxepare kalea",wikidata,M,Q127609,way
 "Calle Felipe Serrate / Felipe Serrate kalea",wikidata,M,Q118396331,way
 "Calle Fernández del Campo / Fernandez del Campo kalea",wikidata,M,Q98598296,way
@@ -84,6 +88,7 @@ name,source,gender,wikidata,type
 "Calle Pintor Antonio Guezala / Guezala margolariaren kalea",wikidata,M,Q5700199,way
 "Calle Pintor Ignacio Zuloaga / Ignacio Zuloaga margolaria kalea",wikidata,M,Q460198,way
 "Calle Ricardo Gutiérrez Abascal / Ricardo Gutierrez Abascal kalea",wikidata,M,Q3753828,way
+"Calle Rodríguez Arias",wikidata,M,Q5692626,way
 "Calle Rodríguez Arias / Rodriguez Arias kalea",wikidata,M,Q5692626,way
 "Calle San Francisco / San Frantzisko kalea",wikidata,M,Q676555,way
 "Calle San Vicente / Done Bikendi kalea",wikidata,M,Q318974,way
@@ -122,6 +127,7 @@ name,source,gender,wikidata,type
 "Pedro Arrupe zubia",wikidata,M,Q452343,way
 "Pio Baroja plaza / Plaza Pío Baroja",wikidata,M,Q220980,relation
 "Plaza Ernesto Erkoreka / Ernesto Erkoreka plaza",wikidata,M,Q4890245,way
+"Plaza Miguel De Unamuno / Miguel de Unamuno plaza",wikidata,M,Q185085,way
 "Plaza de Federico Moyúa / Federico Moyua plaza",wikidata,M,Q8961045,way
 "Plaza de Pedro Eguillor",wikidata,M,Q47528393,way
 "Rafael Moreno ""Pitxitxi"" pasealekua / Paseo Rafael ""Moreno Pitxitxi""",wikidata,M,Q71237,way
@@ -131,7 +137,10 @@ name,source,gender,wikidata,type
 "Sabino Arana etorbidea / Avenida Sabino Arana",wikidata,M,Q332663,way
 "Sabino Arana etorbidea / Avenida de Sabino Arana",wikidata,M,Q332663,way
 "Sabino Aranako bidegorria",wikidata,M,Q332663,way
+"Salazar kalea",wikidata,M,Q151394,way
+"Salazar kalea / Calle Salazar",wikidata,M,Q151394,way
 "San Balentin Berriotxoa kalea",wikidata,M,Q9299178,way
 "San Nikolas plazatxoa / Plaza de San Nicolás",wikidata,M,Q44269,way
 "Telmo Zarra kalea / Calle Telmo Zarra",wikidata,M,Q312408,way
 "Teófilo Guiard kalea",wikidata,M,Q12267917,way
+"Zumalakarregi etorbidea",wikidata,M,Q717519,way
