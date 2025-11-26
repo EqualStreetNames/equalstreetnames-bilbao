@@ -1,265 +1,247 @@
 name,source,gender,wikidata,type
 "Abandoibarra etorbidea",wikidata,-,Q2820167,way
 "Abandoibarra etorbidea - Avenida Abandoibarra",wikidata,-,Q2820167,way
-"Abandoibarra etorbidea / Avenida Abandoibarra",wikidata,-,Q2820167,way
+"Adiskidetasun kalea",wikidata,-,Q491,way
+"Altxerri kobaren kalea",wikidata,-,Q361060,way
 "Anboto kalea",wikidata,-,Q458478,way
-"Avenida Lapurdi / Lapurdi etorbidea",wikidata,-,Q671023,way
-"Avenida Montevideo / Montevideo etorbidea",wikidata,-,Q1335,way
-"Avenida Reyes Católicos / Errege Katolikoen etorbidea",wikidata,-,Q186851,way
-"Avenida Vergara / Bergara etorbidea",wikidata,-,Q1382252,way
-"Avenida Zuberoa / Zuberoa etorbidea",wikidata,-,Q673040,way
-"Avenida del Ferrocarril / Trenbideko etorbidea",wikidata,-,Q22667,way
-"Banco Bilbao kalea / Calle Banco Bilbao",wikidata,-,Q8241304,way
+"Andaluzia kalea",wikidata,-,Q5783,way
+"Araba kalea",wikidata,-,Q81801,way
+"Aragoi kalea",wikidata,-,Q4040,way
+"Asturias kalea",wikidata,-,Q3934,way
+"Autonomia kalea",wikidata,-,Q484105,way
+"Avila kalea",wikidata,-,Q15688,way
+"Badajoz kalea",wikidata,-,Q15679,way
+"Bailen kalea",wikidata,-,Q1364346,way
+"Banco Bilbao kalea",wikidata,-,Q8241304,way
+"Banco España Kalea",wikidata,-,Q789966,way
 "Baso BIdea",wikidata,-,Q4421,way
 "Baso bidea",wikidata,-,Q4421,way
-"Bilbo Zaharra kalea / Calle Bilbao la Vieja",wikidata,-,Q860482,way
-"Bizkaia plaza",wikidata,-,Q93366,way
-"Calle Amistad / Adiskidetasun kalea",wikidata,-,Q491,way
-"Calle Anboto / Anboto kalea",wikidata,-,Q458478,way
-"Calle Andalucía / Andaluzia kalea",wikidata,-,Q5783,way
-"Calle Araba / Araba kalea",wikidata,-,Q81801,way
-"Calle Aragón / Aragoi kalea",wikidata,-,Q4040,way
-"Calle Asturias / Asturias kalea",wikidata,-,Q3934,way
-"Calle Autonomía / Autonomia kalea",wikidata,-,Q484105,way
-"Calle Ávila / Avila kalea",wikidata,-,Q15688,way
-"Calle Badajoz / Badajoz kalea",wikidata,-,Q15679,way
-"Calle Bailén / Bailen kalea",wikidata,-,Q1364346,way
-"Calle Banco de España / Banco España Kalea",wikidata,-,Q789966,way
-"Calle Batalla de Padura / Padurako guduaren kalea",wikidata,-,Q2889573,way
-"Calle Benidorm / Benidorm kalea",wikidata,-,Q487981,way
-"Calle Biarritz / Biarritz kalea",wikidata,-,Q132790,way
-"Calle Buenos Aires / Buenos Aires kalea",wikidata,-,Q1486,way
-"Calle Burgos / Burgos kalea",wikidata,-,Q9580,way
-"Calle Cáceres / Caceres kalea",wikidata,-,Q15678,way
+"Baztan haranaren plaza",wikidata,-,Q641755,way
+"Benidorm kalea",wikidata,-,Q487981,way
+"Bergara etorbidea",wikidata,-,Q1382252,way
+"Biarritz kalea",wikidata,-,Q132790,way
+"Bilbo Zaharra kalea",wikidata,-,Q860482,way
+"Bizkaia plaza",wikidata,-,Q93366,relation
+"Buenos Aires kalea",wikidata,-,Q1486,way
+"Burgos kalea",wikidata,-,Q9580,way
+"Burgos kalearen atzealdea",wikidata,-,Q9580,way
+"Caceres kalea",wikidata,-,Q15678,way
 "Calle Canal de Deusto",wikidata,-,Q20492309,way
-"Calle Canal de Deusto / Deustuko kanaleko kalea",wikidata,-,Q20492309,way
-"Calle Cantabria / Cantabria kalea",wikidata,-,Q3946,way
-"Calle Catalunya / Catalunya kalea",wikidata,-,Q5705,way
-"Calle Correo / Posta kalea",wikidata,-,Q49845,way
-"Calle Cueva Altxerri / Altxerri kobaren kalea",wikidata,-,Q361060,way
-"Calle Cueva Goikolau / Goikolau kobaren kalea",wikidata,-,Q11044871,way
-"Calle Cueva Santimamiñe / Satimamiñe kobaren kalea",wikidata,-,Q2993079,way
-"Calle Cuevas Ekain / Ekain koben kalea",wikidata,-,Q1414019,way
-"Calle Diputación / Diputazio kalea",wikidata,-,Q3042544,way
-"Calle Dos de Mayo / Maiatzaren biko kalea",wikidata,-,Q181146,way
-"Calle Encartaciones / Enkarterri kalea",wikidata,-,Q582166,way
-"Calle Erronkari / Erronkari kalea",wikidata,-,Q578795,way
 "Calle Esperanto",wikidata,-,Q143,way
-"Calle Esperanza / Itxaropen kalea",wikidata,-,Q190507,way
-"Calle Extremadura / Extremadura kalea",wikidata,-,Q5777,way
-"Calle Fueros / Foru kalea",wikidata,-,Q5467181,way
-"Calle Galicia / Galizia kalea",wikidata,-,Q3908,way
 "Calle Gasteiz",wikidata,-,Q14318,way
-"Calle Gipuzkoa / Gipuzkoa kalea",wikidata,-,Q95010,way
-"Calle Hernani / Hernani kalea",wikidata,-,Q1441329,way
-"Calle Ibarrekolanda / Ibarrekolanda kalea",wikidata,-,Q11926321,way
-"Calle Illes Balears / Illes Balears kalea",wikidata,-,Q5765,way
-"Calle Iruña / Iruña kalea",wikidata,-,Q10282,way
 "Calle Islas Canarias - Kanariar Uharteen kalea",wikidata,-,Q5813,way
-"Calle Islas Canarias / Kanariar Uharteen kalea",wikidata,-,Q5813,way
-"Calle Iturribide / Iturribide kalea",wikidata,-,Q12259899,way
-"Calle La Rioja / Errioxa kalea",wikidata,-,Q5727,way
-"Calle Lekeitio / Lekeitio kalea",wikidata,-,Q1227965,way
-"Calle Logroño / Logroño kalea",wikidata,-,Q14325,way
-"Calle Lotería / Loteria kalea",wikidata,-,Q189409,way
-"Calle Lutxana / Lutxana kalea",wikidata,-,Q3310734,way
-"Calle Mérida / Merida kalea",wikidata,-,Q14323,way
-"Calle Monte Ganekogorta / Ganekogorta mendiaren kalea",wikidata,-,Q557130,way
-"Calle Navarra / Nafarroa kalea",wikidata,-,Q4018,way
 "Calle Nuestra Señora de Montserrat",wikidata,-,Q301779,way
-"Calle Nueva / Kale Barria",wikidata,-,Q12544101,way
-"Calle Olite / Erriberri kalea",wikidata,-,Q837062,way
-"Calle Salou / Salou kalea",wikidata,-,Q662789,way
-"Calle Santander / Santander kalea",wikidata,-,Q12233,way
-"Calle Sasiburu",wikidata,-,Q9077078,way
-"Calle Saturrarán / Saturraran kalea",wikidata,-,Q3112039,way
-"Calle Tudela / Tutera kalea",wikidata,-,Q244747,way
-"Calle Universidad de Oñate / Oñatiko Unibertsitatearen kalea",wikidata,-,Q339482,way
-"Calle Zumaia / Zumaia kalea",wikidata,-,Q229659,way
 "Calle Zumarraga",wikidata,-,Q844508,way
-"Calle de la Pelota / Pilota kalea",wikidata,-,Q212845,way
-"Calle del Perro / Txakur kalea",wikidata,-,Q144,way
-"Campo Volantin pasealekua / Paseo Campo Volantín",wikidata,-,Q18222404,way
+"Campo Volantin pasealekua",wikidata,-,Q18222404,way
+"Cantabria kalea",wikidata,-,Q3946,way
+"Catalunya kalea",wikidata,-,Q5705,way
 "Circunvalación sur de Bilbao",wikidata,-,Q85866556,way
 "Colombo kalea",wikidata,-,Q371207,way
-"Deustuko zubia / Puente de Deustu",wikidata,-,Q3396958,way
-"Donostia-San Sebastian kalea / Calle Donostia - San Sebastián",wikidata,-,Q10313,way
-"Dorre kalea / Calle La Torre",wikidata,-,Q12518,way
-"Estrauntza kalea / Calle Estraunza",wikidata,-,Q371207,way
-"Frank Gehry zubia / Puente Frank Gehry",wikidata,-,Q20493009,way
-"Gas plaza / Plaza del Gas",wikidata,-,Q24068063,way
-"Gasteiz kalea / Calle Gasteiz",wikidata,-,Q24008392,way
-"Illes Balears kalea / Calle Illes Balears",wikidata,-,Q5765,way
+"Deustuko kanaleko kalea",wikidata,-,Q20492309,way
+"Deustuko zubia",wikidata,-,Q2007981;Q3396958,way
+"Diputazio kalea",wikidata,-,Q3042544,way
+"Donostia-San Sebastian kalea",wikidata,-,Q10313,way
+"Dorre kalea",wikidata,-,Q12518,way
+"Ekain koben kalea",wikidata,-,Q1414019,way
+"Enkarterri kalea",wikidata,-,Q582166,way
+"Errege Katolikoen etorbidea",wikidata,-,Q186851,way
+"Erriberri kalea",wikidata,-,Q837062,way
+"Errioxa kalea",wikidata,-,Q5727,way
+"Erronkari kalea",wikidata,-,Q578795,way
+"Euskadi plaza",wikidata,-,Q3995,way
+"Extremadura kalea",wikidata,-,Q5777,way
+"Foru kalea",wikidata,-,Q5467181,way
+"Frank Gehry zubia",wikidata,-,Q20493009,way
+"Galizia kalea",wikidata,-,Q3908,way
+"Ganekogorta mendiaren kalea",wikidata,-,Q557130,way
+"Gas plaza",wikidata,-,Q24068063,way
+"Gasteiz kalea",wikidata,-,Q24008392,way
+"Gipuzkoa kalea",wikidata,-,Q95010,way
+"Goikolau Kobaren kalea",wikidata,-,Q11044871,way
+"Goikolau kobaren kalea",wikidata,-,Q11044871,way
+"Hernani kalea",wikidata,-,Q1441329,way
+"Ibarrekolanda kalea",wikidata,-,Q11926321,way
+"Illes Balears kalea",wikidata,-,Q5765,way
+"Iruña kalea",wikidata,-,Q10282,way
 "Iturribide kalea",wikidata,-,Q12259899,way
-"Jesusen Bihotza plaza / Plaza del Sagrado Corazón de Jesús",wikidata,-,Q408284,way
-"Kanariar Uharteen zeharkalea / Travesía de las Islas Canarias",wikidata,-,Q5813,way
-"Konpostelako Done Jakue kalea / Calle Santiago de Compostela",wikidata,-,Q14314,way
+"Itxaropen kalea",wikidata,-,Q190507,way
+"Jesusen Bihotza plaza",wikidata,-,Q408284,way
+"Kale Barria",wikidata,-,Q12544101,way
+"Kanariar Uharteen kalea",wikidata,-,Q5813,way
+"Kanariar Uharteen zeharkalea",wikidata,-,Q5813,way
+"Konpostelako Done Jakue kalea",wikidata,-,Q14314,way
+"Lapurdi etorbidea",wikidata,-,Q671023,way
 "Larrinaga kalea",wikidata,-,Q1806019,way
-"Montevideo etorbidea / Avenida de Montevideo",wikidata,-,Q1335,way
-"Montserrat Andra Maria kalea / Calle Nuestra Señora de Montserrat",wikidata,-,Q301779,way
-"Plaza Euskadi / Euskadi plaza",wikidata,-,Q3995,way
-"Plaza Nueva / Plaza Barria",wikidata,-,Q12544101,way
-"Plaza Valle del Baztan / Baztan haranaren plaza",wikidata,-,Q641755,way
+"Lekeitio kalea",wikidata,-,Q1227965,way
+"Logroño kalea",wikidata,-,Q14325,way
+"Loteria kalea",wikidata,-,Q189409,way
+"Lutxana kalea",wikidata,-,Q3310734,way
+"Maiatzaren biko kalea",wikidata,-,Q181146,way
+"Merida kalea",wikidata,-,Q14323,way
+"Montevideo etorbidea",wikidata,-,Q1335,way
+"Montserrat Andra Maria kalea",wikidata,-,Q301779,way
+"Museo plaza",wikidata,-,Q127064,way
+"Nafarroa kalea",wikidata,-,Q4018,way
+"Oñatiko Unibertsitatearen kalea",wikidata,-,Q339482,way
+"Padurako guduaren kalea",wikidata,-,Q2889573,way
+"Pilota kalea",wikidata,-,Q212845,way
+"Plaza Barria",wikidata,-,Q12544101,way
 "Plaza de la Cantera",wikidata,-,Q188040,way
 "Plaza del Ensanche",wikidata,-,Q24207656,way
-"Plaza del Ensanche / Zabalgune plaza",wikidata,-,Q8776333,way
-"Plaza del Museo / Museo plaza",wikidata,-,Q127064,way
+"Posta kalea",wikidata,-,Q49845,way
 "Puente Euskalduna - Euskalduna zubia",wikidata,-,Q3396530,way
-"Puente de Deusto / Deustuko zubia",wikidata,-,Q2007981,way
 "Puente del Diablo",wikidata,-,Q6674,way
-"Ribera de Zorrotzaurre / Zorrotzaurreko erribera",wikidata,-,Q13405126,way
-"Salbe zubia / Puente La Salve",wikidata,-,Q6465160,way
-"Santutxu kalea / Calle Santutxu",wikidata,-,Q968311,way
+"Salbe zubia",wikidata,-,Q6465160,way
+"Salou kalea",wikidata,-,Q662789,way
+"Salve zubia",wikidata,-,Q6465160,way
+"Santander kalea",wikidata,-,Q12233,way
+"Santimamiñe kobaren kalea",wikidata,-,Q2993079,way
+"Santutxu kalea",wikidata,-,Q968311,way
 "Sasiburu kalea",wikidata,-,Q9077078,way
+"Satimamiñe kobaren kalea",wikidata,-,Q2993079,way
+"Saturraran kalea",wikidata,-,Q3112039,way
 "Sollube kalea",wikidata,-,Q557452,way
 "Solokoetxe kalea",wikidata,-,Q11950129,way
-"Trasera de calle Burgos / Burgos kalearen atzealdea",wikidata,-,Q9580,way
-"Trenbideko etorbidea / Avenida del Ferrocarril",wikidata,-,Q22667,way
+"Trenbideko etorbidea",wikidata,-,Q22667,way
+"Tutera kalea",wikidata,-,Q244747,way
+"Txakur kalea",wikidata,-,Q144,way
+"Zabalgune plaza",wikidata,-,Q8776333,way
+"Zorrotzaurreko erribera",wikidata,-,Q13405126,way
+"Zuberoa etorbidea",wikidata,-,Q673040,way
 Zubizuri,wikidata,-,Q227583,way
-"Zumarraga kalea / Calle Zumarraga",wikidata,-,Q844508,way
-"Angela Figuera kalea / Calle Ángela Figuera",wikidata,F,Q608706,way
-"Barrio Andra Maria de Begoña / Begoñako Andra Mari auzoa",wikidata,F,Q345,way
+"Zumaia kalea",wikidata,-,Q229659,way
+"Zumarraga kalea",wikidata,-,Q844508,way
+"Estrauntza kalea",wikidata,?,Q16493603;Q371207,way
+"Andra Maria kalea",wikidata,F,Q345,way
+"Angela Figuera kalea",wikidata,F,Q608706,way
+"Begoñako Andra Mari auzoa",wikidata,F,Q345,way
+"Benita Asas kalea",wikidata,F,Q18643823,way
 "Calle Ángela Figuera",wikidata,F,Q608706,way
-"Calle Benita Asas / Benita Asas kalea",wikidata,F,Q18643823,way
 "Calle Clara Campoamor",wikidata,F,Q3321142,way
-"Calle Dolores Ibarruri / Dolores Ibarruri kalea",wikidata,F,Q238955,way
-"Calle Filomena Baldezate / Filomena Baldezate kalea",wikidata,F,Q106168786,way
-"Calle María Díaz de Haro / Maria Diaz Haroko kalea",wikidata,F,Q3015902,way
-"Calle María Muñoz / Maria Muñoz kalea",wikidata,F,Q38319443,way
-"Calle Rafaela Ybarra / Rafaela Ybarra kalea",wikidata,F,Q2636771,way
-"Calle Santa María / Andra Maria kalea",wikidata,F,Q345,way
 "Clara Campoamor kalea",wikidata,F,Q3321142,way
+"Dolores Ibarruri kalea",wikidata,F,Q238955,way
 "Estitxu pasealekua",wikidata,F,Q12257307,way
+"Filomena Baldezate kalea",wikidata,F,Q106168786,way
+"Maria Diaz Haroko kalea",wikidata,F,Q3015902,way
+"Maria Diaz de Haroko kalea",wikidata,F,Q3015902,way
+"Maria Muñoz kalea",wikidata,F,Q38319443,way
+"Matilde Orbegozo kalea",wikidata,F,Q94686081,way
+"Rafaela Ybarra kalea",wikidata,F,Q2636771,way
 "Acebal Idigoras kalea",wikidata,M,Q26211518,way
-"Alameda Doctor Areilza / Areiltza doktorearen zumarkalea",wikidata,M,Q28502299,way
-"Alameda Gregorio de la Revilla / Gregorio de la Revilla zumarkalea",wikidata,M,Q16517446,way
-"Alameda Mazarredo / Mazarredo zumarkalea",wikidata,M,Q195797,way
-"Alameda Recalde / Recalde zumarkalea",wikidata,M,Q3314992,way
-"Alameda San Mamés / Santimami zumarkalea",wikidata,M,Q532019,way
-"Alameda Urquijo / Urkixo zumarkalea",wikidata,M,Q3031141,way
-"Andrés Isasi zeharkalea / Travesía de Andrés Isasi",wikidata,M,Q524358,way
-"Artetxe kondearen zumarkalea / Alameda del Conde Artetxe",wikidata,M,Q16493603,way
+"Agirre lehendakariaren etorbidea",wikidata,M,Q380878,way
+"Alejandro de La Sota kantoia",wikidata,M,Q42349767,way
+"Andres Eliseo de Mañaricua kalea",wikidata,M,Q12253516,way
+"Andres Isasi kalea",wikidata,M,Q524358,way
+"Andrés Isasi kalea",wikidata,M,Q524358,way
+"Andrés Isasi zeharkalea",wikidata,M,Q524358,way
+"Antonio Trueba kalea",wikidata,M,Q605530,way
+"Areiltza doktorearen zumarkalea",wikidata,M,Q28502299,way
+"Artetxe kondearen zumarkalea",wikidata,M,Q16493603,way
+"Arturo Campion kalea",wikidata,M,Q2865943,way
 "Astarloa kalea",wikidata,M,Q9054010,way
-"Avenida Lehendakari Aguirre / Agirre lehendakariaren etorbidea",wikidata,M,Q380878,way
-"Avenida Maurice Ravel / Maurice Ravel etorbidea",wikidata,M,Q1178,way
-"Avenida Sabino Arana / Sabino Arana etorbidea",wikidata,M,Q332663,way
-"Avenida Zumalacarregui / Zumalacarregui etorbidea",wikidata,M,Q717519,way
-"Avenida de Ramón y Cajal / Ramón y Cajal etorbidea",wikidata,M,Q150526,way
-"Avenida de Sabino Arana / Sabino Arana etorbidea",wikidata,M,Q332663,way
-"Calle Alcalde Felipe Uhagón / Felipe Uhagon alkatearen kalea",wikidata,M,Q25474130,way
-"Calle Andrés Eliseo de Mañaricua / Andres Eliseo de Mañaricua kalea",wikidata,M,Q12253516,way
-"Calle Andrés Isasi / Andres Isasi kalea",wikidata,M,Q524358,way
-"Calle Antonio Trueba / Antonio Trueba kalea",wikidata,M,Q605530,way
-"Calle Arturo Campion / Arturo Campion kalea",wikidata,M,Q2865943,way
-"Calle Arturo Campión / Arturo Campion kalea",wikidata,M,Q2865943,way
-"Calle Aureliano Valle / Aureliano Valle kalea",wikidata,M,Q55837857,way
-"Calle Barroeta Aldamar / Barroeta Aldamar kalea",wikidata,M,Q11069084,way
-"Calle Bertendona / Bertendona kalea",wikidata,M,Q12263172,way
-"Calle Blas de Otero / Blas de Otero kalea",wikidata,M,Q881756,way
-"Calle Cardenal Gardoqui / Gardoki kardenalaren kalea",wikidata,M,Q2518349,way
-"Calle Colón de Larreátegui / Kolon Larreategi kalea",wikidata,M,Q93387219,way
-"Calle Cosme Echevarrieta / Cosme Echevarrieta kalea",wikidata,M,Q22222556,way
-"Calle Doctor Félix Landín / Felix Landin doktorearen kalea",wikidata,M,Q108305009,way
-"Calle Doctor Nicolás Achúcarro / Atxukarro doktorearen kalea",wikidata,M,Q3113964,way
-"Calle Egaña / Egaña kalea",wikidata,M,Q5401956,way
-"Calle Elcano / Elcano kalea",wikidata,M,Q201510,way
-"Calle Emilio Arrieta / Emilio Arrieta kalea",wikidata,M,Q953785,way
-"Calle Enrique Eguren / Enrique Eguren kalea",wikidata,M,Q12256880,way
-"Calle Ercilla / Ercilla kalea",wikidata,M,Q357620,way
-"Calle Estrauntza / Estrauntza kalea",wikidata,M,Q16493603,way
-"Calle Etxepare / Etxepare kalea",wikidata,M,Q127609,way
-"Calle Felipe Serrate / Felipe Serrate kalea",wikidata,M,Q118396331,way
-"Calle Fernández del Campo / Fernandez del Campo kalea",wikidata,M,Q98598296,way
-"Calle Francesc Macia / Francesc Macia kalea",wikidata,M,Q1806213,way
-"Calle García Salazar / Garcia Salazar kalea",wikidata,M,Q3259291,way
-"Calle General Concha / Concha jeneralaren kalea",wikidata,M,Q325762,way
-"Calle General Eguía / Egia jeneralaren kalea",wikidata,M,Q3740224,way
-"Calle General Salazar / Salazar jeneralaren kalea",wikidata,M,Q64767572,way
-"Calle Goya / Goya kalea",wikidata,M,Q5432,way
-"Calle Gregorio Balparda / Gregorio Balparda kalea",wikidata,M,Q5696786,way
-"Calle Heliodoro de la Torre / Heliodoro de la Torre kalea",wikidata,M,Q4892082,way
-"Calle Henao / Henao kalea",wikidata,M,Q19823066,way
-"Calle Heros / Heros kalea",wikidata,M,Q9029845,way
-"Calle Hurtado de Amézaga / Hurtado de Amezaga kalea",wikidata,M,Q8240908,way
-"Calle Ibañez de Bilbao / Ibañez de Bilbao kalea",wikidata,M,Q118396589,way
-"Calle Iparraguirre / Iparraguirre kalea",wikidata,M,Q3186448,way
-"Calle Iturriza / Iturriza kalea",wikidata,M,Q9015932,way
-"Calle Juan Ajuriaguerra / Juan Ajuriaguerra kalea",wikidata,M,Q3323658,way
-"Calle Julio Urquijo / Julio Urquijo kalea",wikidata,M,Q3189826,way
-"Calle Labayru / Labayru kalea",wikidata,M,Q12257275,way
-"Calle Ledesma / Ledesma kalea",wikidata,M,Q11938748,way
-"Calle Lersundi / Lersundi kalea",wikidata,M,Q118402568,way
-"Calle Licenciado Poza / Poza lizentziatuaren kalea",wikidata,M,Q10855567,way
-"Calle Luís Braille / Luís Braille kalea",wikidata,M,Q93182,way
-"Calle Luis Briñas / Luis Briñas kalea",wikidata,M,Q16518244,way
-"Calle Luis Iruarrizaga / Luis Iruarrizaga kalea",wikidata,M,Q12262681,way
-"Calle Maestro García Rivero / Garcia Rivero maisuaren kalea",wikidata,M,Q108513444,way
-"Calle Marcelino Oreja / Marcelino Oreja kalea",wikidata,M,Q3755106,way
-"Calle Marqués del Puerto / Portuko markesaren kalea",wikidata,M,Q55835953,way
-"Calle Máximo Aguirre / Maximo Aguirre kalea",wikidata,M,Q108349704,way
-"Calle Músico Sarasate / Saratsate musikariaren kalea",wikidata,M,Q204503,way
-"Calle Navarro Villoslada / Navarro Villoslada kalea",wikidata,M,Q3818039,way
-"Calle Nemesio Mogrobejo / Nemesio Mogrobejo kalea",wikidata,M,Q431557,way
-"Calle Obispo Orueta / Orueta apezpikuaren kalea",wikidata,M,Q64733353,way
-"Calle Pablo Picasso / Pablo Picasso kalea",wikidata,M,Q5593,way
-"Calle Pérez Galdós / Perez Galdos kalea",wikidata,M,Q189869,way
-"Calle Pintor Antonio Guezala / Guezala margolariaren kalea",wikidata,M,Q5700199,way
-"Calle Pintor Ignacio Zuloaga / Ignacio Zuloaga margolaria kalea",wikidata,M,Q460198,way
-"Calle Ricardo Gutiérrez Abascal / Ricardo Gutierrez Abascal kalea",wikidata,M,Q3753828,way
+"Atxukarro doktorearen kalea",wikidata,M,Q3113964,way
+"Aureliano Valle kalea",wikidata,M,Q55837857,way
+"Barroeta Aldamar kalea",wikidata,M,Q11069084,way
+"Bertendona kalea",wikidata,M,Q12263172,way
+"Blas de Otero kalea",wikidata,M,Q881756,way
 "Calle Rodríguez Arias",wikidata,M,Q5692626,way
-"Calle Rodríguez Arias / Rodriguez Arias kalea",wikidata,M,Q5692626,way
-"Calle San Francisco / San Frantzisko kalea",wikidata,M,Q676555,way
-"Calle San Vicente / Done Bikendi kalea",wikidata,M,Q318974,way
-"Calle Santiago Apóstol / Done Jakue kalea",wikidata,M,Q43999,way
-"Calle Seber Altube / Seber Altube kalea",wikidata,M,Q3476938,way
-"Calle Simón Bolívar / Simon Bolivar kalea",wikidata,M,Q8605,way
-"Calle Teófilo Guiard / Teófilo Guiard kalea",wikidata,M,Q12267917,way
-"Calle Toribia Alzaga / Toribio Alzaga kalea",wikidata,M,Q11952194,way
-"Calle Xenpelar / Xenpelar kalea",wikidata,M,Q12269074,way
 "Calle de Ramón Rubial",wikidata,M,Q2608777,way
-"Cantón Alejandro de La Sota / Alejandro de La Sota kantoia",wikidata,M,Q42349767,way
-"Carrera de Santiago / Done Jakue karrera",wikidata,M,Q43999,way
-"Dario de Regoyos kalea / Calle Darío de Regoyos",wikidata,M,Q1837855,way
-"Dario de Regoyos kalea / Calle Regoyos",wikidata,M,Q1837855,way
+"Concha jeneralaren kalea",wikidata,M,Q325762,way
+"Cosme Echevarrieta kalea",wikidata,M,Q22222556,way
+"Dario de Regoyos kalea",wikidata,M,Q1837855,way
+"Done Bikendi kalea",wikidata,M,Q318974,way
+"Done Jakue kalea",wikidata,M,Q43999,way
+"Done Jakue karrera",wikidata,M,Q43999,way
 "Done Jakue plazatxoa",wikidata,M,Q43999,way
-"Done Jakue plazatxoa / Plazuela Santiago",wikidata,M,Q43999,way
-"Egia jeneralaren kalea / Calle General Eguía",wikidata,M,Q3740224,way
+"Egaña kalea",wikidata,M,Q5401956,way
+"Egia jeneralaren kalea",wikidata,M,Q3740224,way
 "Elcano kalea",wikidata,M,Q201510,way
-"Elcano kalea / Calle Elcano",wikidata,M,Q201510,way
 "Emiliano de Arriaga kalea",wikidata,M,Q12256803,way
-"Emilio Campuzano plaza / Plaza Emilio Campuzano",wikidata,M,Q43181099,way
+"Emilio Arrieta kalea",wikidata,M,Q953785,way
+"Emilio Campuzano plaza",wikidata,M,Q43181099,way
+"Enrique Eguren kalea",wikidata,M,Q12256880,way
+"Ercilla kalea",wikidata,M,Q357620,way
+"Ernesto Erkoreka plaza",wikidata,M,Q4890245,way
+"Etxepare kalea",wikidata,M,Q127609,way
+"Evaristo Churruca kaia",wikidata,M,Q2887291,way
+"Federico Moyua plaza",wikidata,M,Q8961045,way
+"Felipe Serrate kalea",wikidata,M,Q118396331,way
+"Felipe Uhagon alkatearen kalea",wikidata,M,Q25474130,way
+"Felix Landin doktorearen kalea",wikidata,M,Q108305009,way
 "Fernández del Campo kalea",wikidata,M,Q98598296,way
-"Gran Vía Don Diego López de Haro / On Diego Lopez Haroko kale nagusia",wikidata,M,Q2706087,way
-"Gran vía Don Diego López de Haro / On Diego Lopez Haroko kale nagusia",wikidata,M,Q2706087,way
-"Iparraguirre kalea / Calle Iparraguirre",wikidata,M,Q3186448,way
-"José Anselmo Clavé pasealekua / Paseo de José Anselmo Clavé",wikidata,M,Q2335557,way
-"Juan Antonio Zunzunegui etorbidea / Avenida Juan Antonio Zunzunegui",wikidata,M,Q4446154,way
+"Francesc Macia kalea",wikidata,M,Q1806213,way
+"Garcia Rivero maisuaren kalea",wikidata,M,Q108513444,way
+"Garcia Salazar kalea",wikidata,M,Q3259291,way
+"Gardoki kardenalaren kalea",wikidata,M,Q2518349,way
+"Goya kalea",wikidata,M,Q5432,way
+"Gregorio Balparda kalea",wikidata,M,Q5696786,way
+"Gregorio de la Revilla zumarkalea",wikidata,M,Q16517446,way
+"Guezala margolariaren kalea",wikidata,M,Q5700199,way
+"Heliodoro de la Torre kalea",wikidata,M,Q4892082,way
+"Henao kalea",wikidata,M,Q19823066,way
+"Heros kalea",wikidata,M,Q9029845,way
+"Hurtado de Amezaga kalea",wikidata,M,Q8240908,way
+"Ibañez de Bilbao kalea",wikidata,M,Q118396589,way
+"Ignacio Zuloaga margolaria kalea",wikidata,M,Q460198,way
+"Iparraguirre kalea",wikidata,M,Q3186448,way
+"Iturriza kalea",wikidata,M,Q9015932,way
+"José Anselmo Clavé pasealekua",wikidata,M,Q2335557,way
+"Juan Ajuriaguerra kalea",wikidata,M,Q3323658,way
+"Juan Antonio Zunzunegui etorbidea",wikidata,M,Q4446154,way
 "Juan de Garay kalea",wikidata,M,Q441411,way
 "Julian Zugazagoitia kalea",wikidata,M,Q3502901,way
+"Julio Urquijo kalea",wikidata,M,Q3189826,way
+"Kolon Larreategi kalea",wikidata,M,Q93387219,way
+"Labayru kalea",wikidata,M,Q12257275,way
+"Ledesma kalea",wikidata,M,Q11938748,way
 "Leizaola lehendakariaren kalea",wikidata,M,Q644465,way
-"Maurice Ravel etorbidea / Avenida Maurice Ravel",wikidata,M,Q1178,way
-"Muelle de Evaristo Churruca y Brunet / Evaristo Churruca kaia",wikidata,M,Q2887291,way
-"Navarro Villoslada kalea / Calle Navarro Villoslada",wikidata,M,Q3818039,way
+"Lersundi kalea",wikidata,M,Q118402568,way
+"Luís Braille kalea",wikidata,M,Q93182,way
+"Luis Briñas kalea",wikidata,M,Q16518244,way
+"Luis Iruarrizaga kalea",wikidata,M,Q12262681,way
+"Marcelino Oreja kalea",wikidata,M,Q3755106,way
+"Maurice Ravel etorbidea",wikidata,M,Q1178,way
+"Maximo Aguirre kalea",wikidata,M,Q108349704,way
+"Mazarredo zumarkalea",wikidata,M,Q195797,way
+"Miguel de Unamuno plaza",wikidata,M,Q185085,way
+"Navarro Villoslada kalea",wikidata,M,Q3818039,way
+"Nemesio Mogrobejo kalea",wikidata,M,Q431557,way
+"On Diego Lopez Haroko kale nagusia",wikidata,M,Q2706087,way
+"Orueta apezpikuaren kalea",wikidata,M,Q64733353,way
 "Pablo Picasso kalea",wikidata,M,Q5593,way
 "Paseo de Eduardo Victoria de Lecea",wikidata,M,Q29578172,way
 "Pedro Arrupe zubia",wikidata,M,Q452343,way
-"Pio Baroja plaza / Plaza Pío Baroja",wikidata,M,Q220980,relation
-"Plaza Ernesto Erkoreka / Ernesto Erkoreka plaza",wikidata,M,Q4890245,way
-"Plaza Miguel De Unamuno / Miguel de Unamuno plaza",wikidata,M,Q185085,way
-"Plaza Miguel de Unamuno / Miguel de Unamuno plaza",wikidata,M,Q185085,way
-"Plaza de Federico Moyúa / Federico Moyua plaza",wikidata,M,Q8961045,way
+"Perez Galdos kalea",wikidata,M,Q189869,way
+"Pio Baroja plaza",wikidata,M,Q220980,relation
 "Plaza de Pedro Eguillor",wikidata,M,Q47528393,way
-"Rafael Moreno ""Pitxitxi"" pasealekua / Paseo Rafael ""Moreno Pitxitxi""",wikidata,M,Q71237,way
-"Raimundo Pérez Lezama kalea / Calle Raimundo Pérez Lezama",wikidata,M,Q2606155,way
+"Portuko Markesaren kalea",wikidata,M,Q55835953,way
+"Portuko markesaren kalea",wikidata,M,Q55835953,way
+"Poza lizentziatuaren kalea",wikidata,M,Q10855567,way
+"Rafael Moreno Pitxitxi pasealekua",wikidata,M,Q71237,way
+"Raimundo Pérez Lezama kalea",wikidata,M,Q2606155,way
 "Ramon de la Sota kaia",wikidata,M,Q3754833,way
-"Recalde zumarkalea / Alameda Recalde",wikidata,M,Q3314992,way
-"Sabino Arana etorbidea / Avenida Sabino Arana",wikidata,M,Q332663,way
-"Sabino Arana etorbidea / Avenida de Sabino Arana",wikidata,M,Q332663,way
+"Ramón y Cajal etorbidea",wikidata,M,Q150526,way
+"Recalde zumarkalea",wikidata,M,Q3314992,way
+"Rekalde zumarkalea",wikidata,M,Q3314992,way
+"Ricardo Gutierrez Abascal kalea",wikidata,M,Q3753828,way
+"Rodriguez Arias Kalea",wikidata,M,Q5692626,way
+"Rodriguez Arias kalea",wikidata,M,Q5692626,way
+"Sabino Arana Etorbidea",wikidata,M,Q332663,way
+"Sabino Arana etorbidea",wikidata,M,Q332663,way
 "Sabino Aranako bidegorria",wikidata,M,Q332663,way
+"Salazar jeneralaren kalea",wikidata,M,Q64767572,way
 "Salazar kalea",wikidata,M,Q151394,way
-"Salazar kalea / Calle Salazar",wikidata,M,Q151394,way
 "San Balentin Berriotxoa kalea",wikidata,M,Q9299178,way
-"San Nikolas plazatxoa / Plaza de San Nicolás",wikidata,M,Q44269,way
-"Telmo Zarra kalea / Calle Telmo Zarra",wikidata,M,Q312408,way
+"San Frantzisko kalea",wikidata,M,Q676555,way
+"San Nikolas plazatxoa",wikidata,M,Q44269,way
+"Santimami zumarkalea",wikidata,M,Q532019,way
+"Saratsate musikariaren kalea",wikidata,M,Q204503,way
+"Seber Altube kalea",wikidata,M,Q3476938,way
+"Simon Bolivar kalea",wikidata,M,Q8605,way
+"Telmo Zarra kalea",wikidata,M,Q312408,way
 "Teófilo Guiard kalea",wikidata,M,Q12267917,way
+"Toribio Alzaga kalea",wikidata,M,Q11952194,way
+"Urkixo zumarkalea",wikidata,M,Q3031141,way
+"Xenpelar kalea",wikidata,M,Q12269074,way
+"Zumalacarregui etorbidea",wikidata,M,Q717519,way
 "Zumalakarregi etorbidea",wikidata,M,Q717519,way
