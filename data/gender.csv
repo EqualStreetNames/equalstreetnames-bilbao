@@ -14,7 +14,6 @@ name,source,gender,wikidata,type
 "Bailen kalea",wikidata,-,Q1364346,way
 "Banco Bilbao kalea",wikidata,-,Q8241304,way
 "Banco España Kalea",wikidata,-,Q789966,way
-"Baso BIdea",wikidata,-,Q4421,way
 "Baso bidea",wikidata,-,Q4421,way
 "Baztan haranaren plaza",wikidata,-,Q641755,way
 "Benidorm kalea",wikidata,-,Q487981,way
@@ -58,7 +57,6 @@ name,source,gender,wikidata,type
 "Gasteiz kalea",wikidata,-,Q24008392,way
 "Gipuzkoa kalea",wikidata,-,Q95010,way
 "Goikolau Kobaren kalea",wikidata,-,Q11044871,way
-"Goikolau kobaren kalea",wikidata,-,Q11044871,way
 "Hernani kalea",wikidata,-,Q1441329,way
 "Ibarrekolanda kalea",wikidata,-,Q11926321,way
 "Illes Balears kalea",wikidata,-,Q5765,way
@@ -95,10 +93,9 @@ name,source,gender,wikidata,type
 "Salou kalea",wikidata,-,Q662789,way
 "Salve zubia",wikidata,-,Q6465160,way
 "Santander kalea",wikidata,-,Q12233,way
-"Santimamiñe kobaren kalea",wikidata,-,Q2993079,way
+"Santimamiñe Kobaren kalea",wikidata,-,Q2993079,way
 "Santutxu kalea",wikidata,-,Q968311,way
 "Sasiburu kalea",wikidata,-,Q9077078,way
-"Satimamiñe kobaren kalea",wikidata,-,Q2993079,way
 "Saturraran kalea",wikidata,-,Q3112039,way
 "Sollube kalea",wikidata,-,Q557452,way
 "Solokoetxe kalea",wikidata,-,Q11950129,way
@@ -131,7 +128,6 @@ Zubizuri,wikidata,-,Q227583,way
 "Agirre lehendakariaren etorbidea",wikidata,M,Q380878,way
 "Alejandro de La Sota kantoia",wikidata,M,Q42349767,way
 "Andres Eliseo de Mañaricua kalea",wikidata,M,Q12253516,way
-"Andres Isasi kalea",wikidata,M,Q524358,way
 "Andrés Isasi kalea",wikidata,M,Q524358,way
 "Andrés Isasi zeharkalea",wikidata,M,Q524358,way
 "Antonio Trueba kalea",wikidata,M,Q605530,way
@@ -171,7 +167,7 @@ Zubizuri,wikidata,-,Q227583,way
 "Fernández del Campo kalea",wikidata,M,Q98598296,way
 "Francesc Macia kalea",wikidata,M,Q1806213,way
 "Garcia Rivero maisuaren kalea",wikidata,M,Q108513444,way
-"Garcia Salazar kalea",wikidata,M,Q3259291,way
+"García Salazar kalea",wikidata,M,Q3259291,way
 "Gardoki kardenalaren kalea",wikidata,M,Q2518349,way
 "Goya kalea",wikidata,M,Q5432,way
 "Gregorio Balparda kalea",wikidata,M,Q5696786,way
@@ -215,18 +211,14 @@ Zubizuri,wikidata,-,Q227583,way
 "Pio Baroja plaza",wikidata,M,Q220980,relation
 "Plaza de Pedro Eguillor",wikidata,M,Q47528393,way
 "Portuko Markesaren kalea",wikidata,M,Q55835953,way
-"Portuko markesaren kalea",wikidata,M,Q55835953,way
 "Poza lizentziatuaren kalea",wikidata,M,Q10855567,way
 "Rafael Moreno Pitxitxi pasealekua",wikidata,M,Q71237,way
 "Raimundo Pérez Lezama kalea",wikidata,M,Q2606155,way
 "Ramon de la Sota kaia",wikidata,M,Q3754833,way
 "Ramón y Cajal etorbidea",wikidata,M,Q150526,way
 "Recalde zumarkalea",wikidata,M,Q3314992,way
-"Rekalde zumarkalea",wikidata,M,Q3314992,way
 "Ricardo Gutierrez Abascal kalea",wikidata,M,Q3753828,way
-"Rodriguez Arias Kalea",wikidata,M,Q5692626,way
 "Rodriguez Arias kalea",wikidata,M,Q5692626,way
-"Sabino Arana Etorbidea",wikidata,M,Q332663,way
 "Sabino Arana etorbidea",wikidata,M,Q332663,way
 "Sabino Aranako bidegorria",wikidata,M,Q332663,way
 "Salazar jeneralaren kalea",wikidata,M,Q64767572,way
