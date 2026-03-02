@@ -26,7 +26,6 @@ name,source,gender,wikidata,type
 "Burgos kalearen atzealdea",wikidata,-,Q9580,way
 "Caceres kalea",wikidata,-,Q15678,way
 "Calle Canal de Deusto",wikidata,-,Q20492309,way
-"Calle Esperanto",wikidata,-,Q143,way
 "Calle Gasteiz",wikidata,-,Q14318,way
 "Calle Islas Canarias - Kanariar Uharteen kalea",wikidata,-,Q5813,way
 "Calle Nuestra Señora de Montserrat",wikidata,-,Q301779,way
@@ -47,6 +46,7 @@ name,source,gender,wikidata,type
 "Erriberri kalea",wikidata,-,Q837062,way
 "Errioxa kalea",wikidata,-,Q5727,way
 "Erronkari kalea",wikidata,-,Q578795,way
+"Esperanto kalea",wikidata,-,Q143,way
 "Euskadi plaza",wikidata,-,Q3995,way
 "Extremadura kalea",wikidata,-,Q5777,way
 "Foru kalea",wikidata,-,Q5467181,way

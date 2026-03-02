@@ -8,13 +8,13 @@ name,source,gender,wikidata,type
 "Abusu zubia",,,,way
 "Abuztuak 16 kalea",,,,way
 "Acceso Bilbao Arena",,,,way
-"Acceso Euskalduna",,,,way
 "Acceso N-634",,,,way
 "Acceso a Bilbao por el Norte (Enekuri - Asua)",,,,way
 "Acceso a Mina Primitiva",,,,way
 "Acceso a ascensor",,,,way
 "Acceso a huertas",,,,way
 "Accesos Bilbao-San Mamés",,,,way
+"Acera Calle Santutxu",,,,way
 "Agarre kalea",,,,way
 "Agirre anaien kalea",,,,way
 "Agoitz plaza",,,,way
@@ -151,6 +151,7 @@ Artigabidea,,,,way
 "Barrainkua kalea",,,,way
 Barrenkale,,,,way
 "Barrenkale Barrena",,,,way
+"Barriada Parroco Unzeta",,,,way
 "Barrio Betolatza",,,,way
 "Barrio La Asunción",,,,way
 "Barrio Larrazabal",,,,way
@@ -181,7 +182,7 @@ Bedarra,,,,way
 "Begoñazpi kalea",,,,way
 "Behekobide kalea",,,,way
 "Beiti estrata",,,,way
-"Belategi Plaza",,,,way
+"Belategi plaza",,,,way
 Belostikale,,,,way
 "Benito Alberdi kalea",,,,way
 "Benta estrata",,,,way
@@ -190,7 +191,7 @@ Belostikale,,,,way
 "Bernardino Alonso Udaltzainaren kalea",,,,way
 "Bernardino Garaizar kalea",,,,way
 "Berriozar kalea",,,,way
-"Berriz kalea",,,,way
+"Berriz bidea",,,,way
 Berrizbidea,,,,way
 Beteluribidea,,,,way
 "Betolatza auzoa",,,,way
@@ -255,8 +256,6 @@ Bolintxubidea,,,,way
 "Calle Karmelo",,,,way
 "Calle Las Piedritas",,,,way
 "Calle Lasao",,,,way
-"Calle Lemoatz",,,,way
-"Calle León de Uruñuela",,,,way
 "Calle Malmasin",,,,way
 "Calle Monte Mandoia",,,,way
 "Calle Músico Usandizaga",,,,way
@@ -319,7 +318,6 @@ Bolintxubidea,,,,way
 "Damian Gonzalez maisuaren kalea",,,,way
 "Dendarikale kalea",,,,way
 "Descenso de Potongo DH",,,,way
-"Deusto Barria taldea",,,,way
 Deustuibarra,,,,way
 "Deustuko Trenaren kalea",,,,way
 "Deustuko kaputxinoen aldapa",,,,way
@@ -365,6 +363,7 @@ Deustuibarra,,,,way
 "Ernesto Erkoreka Plaza",,,,way
 "Erregatu kalea",,,,way
 "Errekakoetxe kalea",,,,way
+"Errekalde plaza",,,,way
 "Errekalde-Larraskitu errepidea",,,,way
 "Errekaldeberri kalea",,,,way
 "Errekaldeko saihesbidea",,,,way
@@ -398,6 +397,7 @@ Eskailerak,,,,way
 "Etxenagusia margolariaren kalea",,,,way
 "Etxetxua plaza",,,,way
 "Etxezuri Bidea",,,,way
+"Etxezuri bidea",,,,way
 "Etxezuri kalea",,,,way
 "Eulalia Abaitua Kalea",,,,way
 "Eulalia Abaitua zeharkalea",,,,way
@@ -592,6 +592,7 @@ Larraskitubidea,,,,way
 "Lehendakari Leizaola Kalea",,,,way
 "Lekanda kalea",,,,way
 "Lekuona margolariaren etorbidea",,,,way
+"Lemoatx kalea",,,,way
 "Leon de Uruñuela kalea",,,,way
 "Lepantoko guduaren kalea",,,,way
 "Levante plaza",,,,way
@@ -838,6 +839,7 @@ Polboretxebidea,,,,way
 "Santo Domingo de Guzman etxaldea",,,,way
 "Santurtzi kalea",,,,way
 "Saralegi plaza",,,,way
+"Sarrikoalde kalea",,,,way
 "Sarrikoalde plaza",,,,way
 "Sarrikue auzunea",,,,way
 "Sarrikue etxetaldea",,,,way
@@ -891,6 +893,7 @@ Trokabidea,,,,way
 "Ugalde kalea",,,,way
 "Ugarte kalea",,,,way
 "Ugarteburu kalea",,,,way
+"Ugarteko plaza",,,,way
 "Ugasko auzoa",,,,way
 "Ugatz Parrokoaren Zeharkalea",,,,way
 "Ugatz parrokoaren zeharkalea",,,,way
