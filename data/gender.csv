@@ -20,6 +20,7 @@ name,source,gender,wikidata,type
 "Bergara etorbidea",wikidata,-,Q1382252,way
 "Biarritz kalea",wikidata,-,Q132790,way
 "Bilbo Zaharra kalea",wikidata,-,Q860482,way
+"Bilboko hegoaldeko ingurabidea",wikidata,-,Q85866556,way
 "Bizkaia plaza",wikidata,-,Q93366,relation
 "Buenos Aires kalea",wikidata,-,Q1486,way
 "Burgos kalea",wikidata,-,Q9580,way
@@ -33,7 +34,6 @@ name,source,gender,wikidata,type
 "Campo Volantin pasealekua",wikidata,-,Q18222404,way
 "Cantabria kalea",wikidata,-,Q3946,way
 "Catalunya kalea",wikidata,-,Q5705,way
-"Circunvalación sur de Bilbao",wikidata,-,Q85866556,way
 "Colombo kalea",wikidata,-,Q371207,way
 "Deustuko kanaleko kalea",wikidata,-,Q20492309,way
 "Deustuko zubia",wikidata,-,Q2007981;Q3396958,way
