@@ -1,5 +1,5 @@
 name,source,gender,wikidata,type
-"1 Bilbao Galdakao Errepidea",,,,way
+"1 Bilbao Galdakao errepidea",,,,way
 "AP-8 Supersur",,,,way
 "Abaro estrata",,,,way
 "Abasolo kalea",,,,way
@@ -17,7 +17,7 @@ name,source,gender,wikidata,type
 "Agarre kalea",,,,way
 "Agirre anaien kalea",,,,way
 "Agoitz plaza",,,,way
-"Aiala kantzillerraren kalea",,,,way
+"Aiala kantzilerraren kalea",,,,way
 "Aintzira kalea",,,,way
 "Aita Donostia plaza",,,,way
 "Aita Esteban Pernet kalea",,,,way
@@ -47,7 +47,7 @@ Aluzetabidea,,,,way
 "Amadeus Mozart zeharkalea",,,,way
 "Ametzola parkea",,,,way
 "Ametzola plaza",,,,way
-"Andaluzia Enparantza",,,,way
+"Andaluzia enparantza",,,,way
 "Andramari etxetaldea",,,,way
 "Andre zamaketarien kalea",,,,way
 "Andres Eliseo kalea",,,,way
@@ -56,8 +56,9 @@ Aluzetabidea,,,,way
 "Angela Arregui plaza",,,,way
 "Anselma de Salces estrata",,,,way
 "Anselma de Salces kalea",,,,way
-"Anselmo Guinea Margolariaren Kalea",,,,way
+"Anselmo Guinea Margolariaren kalea",,,,way
 "Antiguo túnel de Lezama",,,,way
+"Antonio Eguiluz Sendagilea kalea",,,,way
 "Antonio Eguiluz kalea",,,,way
 "Antonio Gaztañeta almirantearen kalea",,,,way
 "Apalategi kalea",,,,way
@@ -109,22 +110,21 @@ Artekale,,,,way
 Artigabidea,,,,way
 "Artsenal bidea",,,,way
 "Artxanda - Santo Domingo errepidea",,,,way
-"Artxanda Igoera",,,,way
 "Artxanda bidea",,,,way
 "Artxanda-Egirleta errepidea",,,,way
 "Artxandaren igoeraren kalea",,,,way
 "Artzain Onaren kalea",,,,way
+"Asentzioko San Martin plaza",,,,way
 "Askao kalea",,,,way
 "Askatasuna etorbidea",,,,way
-"Ategorri txakolindegiaren kalea",,,,way
+"Ategorri Txakolindegia kalea",,,,way
 "Atxetabide kalea",,,,way
+"Atxetabidea kalea",,,,way
 "Atxuri kalea",,,,way
 "Auntzetxeta kalea",,,,way
-"Aurelio Arteta Margolariaren kalea",,,,way
+"Aurelio Arteta Margolaria kalea",,,,way
 "Aurrekoetxea kalea",,,,way
 "Avenida Enekuri",,,,way
-"Avenida Gabriel Aresti",,,,way
-"Avenida Jesus Galindez",,,,way
 "Avenida Juan Antonio Zunzunegui etorbidea",,,,way
 "Avenida Julián Gaiarre",,,,way
 "Avenida Miraflores",,,,way
@@ -135,7 +135,6 @@ Artigabidea,,,,way
 "Avenida de Montevideo",,,,way
 "Avenida del Ferrocarril",,,,way
 "Avril auzoa",,,,way
-"Ayala kantzilerraren kalea",,,,way
 "Azaroaren 25eko emakumeen plaza",,,,way
 "Azkarai bidea",,,,way
 "Azurleku auzoa",,,,way
@@ -171,7 +170,6 @@ Barrenkale,,,,way
 "Basurtuko kaputxinoen kalea",,,,way
 Bedarra,,,,way
 "Begoñako Andra Maria kalea",,,,way
-"Begoñako Batasun etxaldea",,,,way
 "Begoñako Errepublika kalea",,,,way
 "Begoñako Hilerriaren bidea",,,,way
 "Begoñalde etxaldea",,,,way
@@ -227,7 +225,6 @@ Bolintxubidea,,,,way
 "Bruno Mauricio Zabala zeharkalea",,,,way
 "Buena Vista aldapa",,,,way
 "Buia etorbidea",,,,way
-"Bus: Burgos → Medina de Pomar → Bilbao",,,,way
 "Butroe kalea",,,,way
 "Calixto Diez kalea",,,,way
 "Calixto Leguina kalea",,,,way
@@ -235,37 +232,29 @@ Bolintxubidea,,,,way
 "Calle Altube",,,,way
 "Calle Artazu",,,,way
 "Calle Astillero",,,,way
-"Calle Atxetabidea",,,,way
 "Calle Beata Margarita López de Maturana",,,,way
 "Calle Belategi",,,,way
 "Calle Bombero David Zalbide",,,,way
-"Calle Caserío Landaburu",,,,way
-"Calle Circo Amateur Club Deportivo",,,,way
 "Calle Circunvalación",,,,way
 "Calle Claudio Gallastegi",,,,way
 "Calle Elizondo",,,,way
 "Calle Estación de Zorrotza",,,,way
-"Calle Gabriel Aresti",,,,way
 "Calle General Concha",,,,way
 "Calle Goyo Nadal",,,,way
 "Calle Gregorio Balpalrda",,,,way
 "Calle Jardines Gernika",,,,way
 "Calle José María Olavarri",,,,way
 "Calle Kadagua",,,,way
-"Calle Karmelo",,,,way
 "Calle Las Piedritas",,,,way
 "Calle Lasao",,,,way
 "Calle Malmasin",,,,way
-"Calle Monte Mandoia",,,,way
 "Calle Músico Usandizaga",,,,way
-"Calle Oruetabidea",,,,way
 "Calle Pastelerías",,,,way
 "Calle Peñascal",,,,way
 "Calle Pintor Losada",,,,way
 "Calle Pintor Tellaetxe",,,,way
 "Calle San Isidro",,,,way
 "Calle Urazurrutia",,,,way
-"Calle Virgen de Begoña",,,,way
 "Calle Zabalbide",,,,way
 "Calle Zamácola",,,,way
 "Calle Zorrotzagana",,,,way
@@ -295,17 +284,16 @@ Bolintxubidea,,,,way
 "Carmelo Gil doktorearen kalea",,,,way
 "Carretera Arrigorriaga - Bilbao (Buia)",,,,way
 "Carretera Basurtu - Kastrexana",,,,way
-"Carretera Bilbao-Galdakao",,,,way
 "Carretera de Zabalgarbi",,,,way
 "Carretera del Hospital Santa Marina",,,,way
 "Castaños kalea",,,,way
 "Castillo jeneralaren kalea",,,,way
 "Celestino María del Arenal plaza",,,,way
 "Celso Negueruela",,,,way
-"Circo Amateur Club Deportivo Kalea",,,,way
 "Circunvalación este de Bilbao",,,,way
 "Circunvalación sur de Bilbao",,,,way
 "Ciudadela kalea",,,,way
+"Club Deportivoren Zirko Amateurra kalea",,,,way
 "Club Deportivoren Zirko Amateurraren kalea",,,,way
 "Cocherito de Bilbao kalea",,,,way
 "Constantino tenorearen kalea",,,,way
@@ -331,6 +319,7 @@ Deustuibarra,,,,way
 "Durango kalea",,,,way
 "Eduardo Victoria de Lecea pasealekua",,,,way
 "Eduardo Zamacois margolariaren kalea",,,,way
+"Egirleta / Santo Domingo gaina",,,,way
 "Egirleta auzoa",,,,way
 "Egirleta etorbidea",,,,way
 "Eguileor kalea",,,,way
@@ -354,10 +343,8 @@ Deustuibarra,,,,way
 "Epalza kalea",,,,way
 "Epetxa kalea",,,,way
 "Eraso jeneralaren kalea",,,,way
-"Erdikoetxe Kalea",,,,way
 "Erdikoetxe kalea",,,,way
 "Eretza mendiaren kalea",,,,way
-"Ernesto Erkoreka Plaza",,,,way
 "Erregatu kalea",,,,way
 "Errekakoetxe kalea",,,,way
 "Errekalde plaza",,,,way
@@ -371,7 +358,7 @@ Deustuibarra,,,,way
 "Erripa kalea",,,,way
 "Erronda kalea",,,,way
 "Errondoko kalea",,,,way
-"Errosario Santuaren kalea",,,,way
+"Errosario Santua kalea",,,,way
 Escaleras,,,,way
 "Escaleras de Arangoiti",,,,way
 "Escaleras entrada ""La Comercial""",,,,way
@@ -385,7 +372,6 @@ Eskailerak,,,,way
 "Estrada Caleros",,,,way
 "Estrada Entrambasaguas",,,,way
 "Estrada Ezkerribai",,,,way
-"Estrada Mendiarte",,,,way
 "Estrada de Kaxtresana",,,,way
 "Estrada de Masustegi",,,,way
 "Estufa zeharkalea",,,,way
@@ -393,19 +379,18 @@ Eskailerak,,,,way
 "Etxebarriko zubia",,,,way
 "Etxenagusia margolariaren kalea",,,,way
 "Etxetxua plaza",,,,way
-"Etxezuri Bidea",,,,way
 "Etxezuri bidea",,,,way
 "Etxezuri kalea",,,,way
-"Eulalia Abaitua Kalea",,,,way
+"Eulalia Abaitua kalea",,,,way
 "Eulalia Abaitua zeharkalea",,,,way
+"Europa parkea",,,,way
 "Euskalduna biribilgunea - Rotonda Euskalduna",,,,way
 "Euskalduna kalea",,,,way
 "Euskalduna zeharkalea",,,,way
 "Euskalduna zubia",,,,way
+"Fagoaga Tenorea kalea",,,,way
 "Familia Santuaren kalea",,,,way
-"Felipe Serrate Kalea",,,,way
-"Fernando Jimenez DYA kidearen kalea",,,,way
-"Fika Kalea",,,,way
+"Fernando Jimenez Dyakidea kalea",,,,way
 "Fika kalea",,,,way
 "Fika plaza",,,,way
 "Fontecha eta Salazar kalea",,,,way
@@ -415,11 +400,12 @@ Eskailerak,,,,way
 "Funikularreko plaza",,,,way
 "Gabika mendiaren kalea",,,,way
 "Gabriel Aresti etorbidea",,,,way
-"Gabriel Aresti hiribidea",,,,way
 "Gabriel Aresti kalea",,,,way
+"Galbarriartu auzunea",,,,way
 "Galerías Isalo",,,,way
 "Galletaginen etorbidea",,,,way
 "Ganeta Mendiaren kalea",,,,way
+"Garabi plaza",,,,way
 "Garai lorategia",,,,way
 "Garaizar kalea",,,,way
 "Garate kalea",,,,way
@@ -440,17 +426,18 @@ Goienkale,,,,way
 "Gorbeia kalea",,,,way
 "Gordoniz kalea",,,,way
 "Gorliz kalea",,,,way
+"Gorostitzagatorre kalea",,,,way
 "Gorte kalea",,,,way
 "Goya zeharkalea",,,,way
 "Goyo Nadal kalea",,,,way
 "Grupo Azurleku",,,,way
 "Grupo Bidegain",,,,way
 "Grupo Buenavista",,,,way
-"Grupo Cooperativa Union Begoñesa Kalea",,,,way
 "Grupo Dolaretxe",,,,way
 "Grupo Jardín de Zorrotza",,,,way
 "Grupo Lagunetxea",,,,way
 "Grupo Obreros de la Jabonera",,,,way
+"Grupo Remar",,,,way
 "Grupo Tomás Zubiria Ybarra",,,,way
 "Guggenheim plaza",,,,way
 "Guimón Rezola doktorearen kalea",,,,way
@@ -499,7 +486,7 @@ Irustabidea,,,,way
 "Iturriaga zeharkalea",,,,way
 "Iturribarria kalea",,,,way
 Iturribide,,,,way
-"Iturribide Zeharkalea",,,,way
+"Iturribide zeharkalea",,,,way
 Iturrigorribidea,,,,way
 "Iturriondo plaza",,,,way
 "Izaro mendiaren kalea",,,,way
@@ -513,8 +500,8 @@ Iturrigorribidea,,,,way
 "Jasokunde auzoa",,,,way
 "Jata kalea",,,,way
 "Jata mediaren kalea",,,,way
-"Jesus Galindez",,,,way
 "Jesus Galindez etorbidea",,,,way
+"Jesús Galíndez etorbidea",,,,way
 "Jesus Insausti ""Uzturre"" plaza",,,,way
 "Jesusen Zerbitzarien kaia",,,,way
 "Joan XXIII Aita Santuaren plaza",,,,way
@@ -522,7 +509,7 @@ Iturrigorribidea,,,,way
 "Jose Maria Agirre Ertzainaren plaza",,,,way
 "Jose Maria Escuza kalea",,,,way
 "Jose Maria Lidon kalea",,,,way
-"Jose Maria Makua Plaza",,,,way
+"Jose Maria Makua plaza",,,,way
 "Jose Maria Olavarri kalea",,,,way
 "Jose Maria Ugarteburu kalea",,,,way
 "Jose Olabarria kalea",,,,way
@@ -537,7 +524,7 @@ Iturrigorribidea,,,,way
 "Juan de Urbieta kalea",,,,way
 "Juan de la Cosa kalea",,,,way
 "Julia meategiaren kalea",,,,way
-"Julian Bolivar Kalea",,,,way
+"Julián Bolivar Elorduy kalea",,,,way
 "Julián Echevarría 'Camarón' kantoia",,,,way
 "Julian Gaiarre etorbidea",,,,way
 "Julian Gaiarre zeharkalea",,,,way
@@ -564,7 +551,7 @@ Iturrigorribidea,,,,way
 "Kobetabide kalea",,,,way
 Kobetabidea,,,,way
 "Kobetamendi bidea",,,,way
-"Konkordia Enparantza",,,,way
+"Konkordia enparantza",,,,way
 "Kontzezio kalea",,,,way
 "Kontzezio zeharkalea",,,,way
 "Kristo kalea",,,,way
@@ -588,7 +575,7 @@ Larraskitubidea,,,,way
 "Latorre Jeneralaren plaza",,,,way
 "Lauaxeta enparantza",,,,way
 "Laurencin Markesaren kalea",,,,way
-"Lehendakari Leizaola Kalea",,,,way
+"Lehendakari Leizaola kalea",,,,way
 "Lekanda kalea",,,,way
 "Lekuona margolariaren etorbidea",,,,way
 "Lemoatx kalea",,,,way
@@ -603,8 +590,10 @@ Larraskitubidea,,,,way
 "Loruri etxaldea",,,,way
 "Loruri zeharkalea",,,,way
 "Losada margolaria kalea",,,,way
+"Losada margolariaren kalea",,,,way
 "Lozoño kalea",,,,way
 "Lucía Yarza pasealekua",,,,way
+"Luis Echevarria plaza",,,,way
 "Luis Luciano Bonaparte",,,,way
 "Luis Luciano Bonaparte kalea",,,,way
 "Luis Power kalea",,,,way
@@ -618,7 +607,7 @@ Luzuribidea,,,,way
 "Malaespera meategiaren bidea",,,,way
 "Mallona bidarriak",,,,way
 "Mandobide kalea",,,,way
-"Mandoia mendiaren kalea",,,,way
+"Mandoia Mendia kalea",,,,way
 "Manuel Allende kalea",,,,way
 "Marcelino Menendez y Pelayo kalea",,,,way
 "Margarita Lopez de Maturana dohatsuaren kalea",,,,way
@@ -644,8 +633,8 @@ Luzuribidea,,,,way
 "Mendipe kalea",,,,way
 "Mendiri Maisuaren kalea",,,,way
 "Mendiri maisuaren kalea",,,,way
-"Mesedeetako Kalea",,,,way
 "Mesedeetako kaia",,,,way
+"Mesedeetako kalea",,,,way
 "Mesedeetako zubia",,,,way
 "Mikel Zarate kalea",,,,way
 "Mikol estrata",,,,way
@@ -698,7 +687,6 @@ Miramarbidea,,,,way
 "Orreagako guduaren kalea",,,,way
 "Ortutxueta kalea",,,,way
 "Ortuzar kalea",,,,way
-"Oruetabidea kalea",,,,way
 "Osasun Langileen plaza",,,,relation
 Otxarkoagabidea,,,,way
 "Pablo Alzola kalea",,,,way
@@ -724,7 +712,7 @@ Pagasarribidea,,,,way
 "Pedro Astigarraga plaza",,,,relation+way
 "Pedro Cortés udal sendagilearen etxaldea",,,,way
 "Pedro Ibarretxe kalea",,,,way
-"Pedro Martínez Artola kalea",,,,relation
+"Pedro Martinez Artola kalea",,,,relation
 "Peñascal bidea",,,,way
 "Pinadia etxaldea",,,,way
 "Pintor A. Guezala",,,,way
@@ -759,7 +747,7 @@ Pagasarribidea,,,,way
 "Plazuela de Felipa Zubicaray",,,,way
 "Plentzia kalea",,,,way
 Polboretxebidea,,,,way
-"Ponton Bidea",,,,way
+"Ponton bidea",,,,way
 "Portuko kalea",,,,way
 "Portuondo kalea",,,,way
 "Prim kalea",,,,way
@@ -771,7 +759,6 @@ Polboretxebidea,,,,way
 "Puente de Cantalojas",,,,way
 "Puente de Deustu",,,,way
 "Puente de la Puerta",,,,way
-"Puente del Ayuntamiento",,,,way
 "Puente del Funi",,,,way
 "Puente del Tubo",,,,way
 "Punte de la Ribera - Erriberako zubia",,,,way
@@ -780,7 +767,7 @@ Polboretxebidea,,,,way
 "Ramon de la Sota kaia - Muelle Ramón de la Sota y Llano",,,,way
 "Ramón y Cajal zeharbidea",,,,way
 "Rampa - Arrapala",,,,way
-"Remigio Gandasegui Monseñorearen Kalea",,,,way
+"Remigio Gandasegi Monseñorearen taldea",,,,way
 "Resurreccion Maria de Azkue kalea",,,,way
 "Ribera Elorrieta erribera",,,,way
 "Ricardo Arregui kalea",,,,way
@@ -790,7 +777,8 @@ Polboretxebidea,,,,way
 "Rotonda de Sta. Marina",,,,way
 "Sabina de la Cruz kalea",,,,way
 "Sagarminaga kalea",,,,way
-"Sagarminaga zeharkalea",,,,way
+"Sagarminaga taldea",,,,way
+"Sagarminaga zeharbidea",,,,way
 "Saibigain mendiaren kalea",,,,way
 "Salbe kalea",,,,way
 "Salbe plaza",,,,way
@@ -828,8 +816,8 @@ Polboretxebidea,,,,way
 "Santa Marina ospitalaren eta Kukullagaren arteko bidea",,,,way
 "Santa Marina ospitalearen bidea",,,,way
 "Santa Monika Biribilgunea",,,,way
-"Santa Monika Pasealekua",,,,way
 "Santa Monika kalea",,,,way
+"Santa Monika pasealekua",,,,way
 "Santa Zezilia kalea",,,,way
 "Santiago Aznar kalea",,,,way
 "Santiago Brouard kalea",,,,way
@@ -838,6 +826,7 @@ Polboretxebidea,,,,way
 "Santo Domingo de Guzman etxaldea",,,,way
 "Santurtzi kalea",,,,way
 "Saralegi plaza",,,,way
+Saratxebidea,,,,way
 "Sarrikoalde kalea",,,,way
 "Sarrikoalde plaza",,,,way
 "Sarrikue auzunea",,,,way
@@ -849,7 +838,7 @@ Seberetxebidea,,,,way
 "Soka kalea",,,,way
 "Somosierra ganeko plaza",,,,way
 "Sorkunde kalea",,,,way
-"Sta. Ana de Bolueta Kalea",,,,way
+"Sta. Ana de Bolueta kalea",,,,way
 "Subida de la Catedral",,,,way
 Supersur,,,,way
 "Supersur - Arraiz Tunela",,,,way
@@ -860,15 +849,12 @@ Supersur,,,,way
 "Tellagorri kalea",,,,way
 "Telleria kalea",,,,way
 "Tenor Constantino kalea",,,,way
-"Tenor Fagoaga kalea",,,,way
-"Tenorearen Fagoaga Kalea",,,,way
 "Tere Verdes pasabidea",,,,way
 "Terraza de la Cantera de Kobeta",,,,way
 "Terraza de la Cantera de Peñascal",,,,way
 "Tiboli kalea",,,,way
 "Tiboli zeharkalea",,,,way
 "Tolosa kalea",,,,way
-"Torre Gorostizaga kalea",,,,way
 "Torres Quevedo ingeniariaren plaza",,,,way
 "Torreurizar etxaldea",,,,way
 "Trauko kalea",,,,way
@@ -892,9 +878,11 @@ Trokabidea,,,,way
 "Ugarteburu kalea",,,,way
 "Ugarteko plaza",,,,way
 "Ugasko auzoa",,,,way
-"Ugatz Parrokoaren Zeharkalea",,,,way
+"Ugatz Parrokoaren zeharkalea",,,,way
 "Ugatz parrokoaren zeharkalea",,,,way
 "Unibertsitate etorbidea",,,,way
+"Unión Begoñesa etxaldea",,,,way
+"Unión Begoñesa taldea",,,,way
 "Untzeta parrokoaren auzunea",,,,way
 "Untziola kalea",,,,way
 "Urazurrutia Kaia",,,,way

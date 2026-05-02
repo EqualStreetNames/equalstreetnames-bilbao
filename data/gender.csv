@@ -13,7 +13,7 @@ name,source,gender,wikidata,type
 "Badajoz kalea",wikidata,-,Q15679,way
 "Bailen kalea",wikidata,-,Q1364346,way
 "Banco Bilbao kalea",wikidata,-,Q8241304,way
-"Banco España Kalea",wikidata,-,Q789966,way
+"Banco España kalea",wikidata,-,Q789966,way
 "Baso bidea",wikidata,-,Q4421,way
 "Baztan haranaren plaza",wikidata,-,Q641755,way
 "Benidorm kalea",wikidata,-,Q487981,way
@@ -85,7 +85,6 @@ name,source,gender,wikidata,type
 "Pilota kalea",wikidata,-,Q212845,way
 "Plaza Barria",wikidata,-,Q12544101,way
 "Plaza de la Cantera",wikidata,-,Q188040,way
-"Plaza del Ensanche",wikidata,-,Q24207656,way
 "Posta kalea",wikidata,-,Q49845,way
 "Puente Euskalduna - Euskalduna zubia",wikidata,-,Q3396530,way
 "Puente del Diablo",wikidata,-,Q6674,way
@@ -101,7 +100,7 @@ name,source,gender,wikidata,type
 "Trenbideko etorbidea",wikidata,-,Q22667,way
 "Tutera kalea",wikidata,-,Q244747,way
 "Txakur kalea",wikidata,-,Q144,way
-"Zabalgune plaza",wikidata,-,Q8776333,way
+"Zabalgune plaza",wikidata,-,Q24207656;Q8776333,way
 "Zorrotzaurreko erribera",wikidata,-,Q13405126,way
 "Zuberoa etorbidea",wikidata,-,Q673040,way
 Zubizuri,wikidata,-,Q227583,way
@@ -139,7 +138,6 @@ Zubizuri,wikidata,-,Q227583,way
 "Barroeta Aldamar kalea",wikidata,M,Q11069084,way
 "Bertendona kalea",wikidata,M,Q12263172,way
 "Blas de Otero kalea",wikidata,M,Q881756,way
-"Calle Rodríguez Arias",wikidata,M,Q5692626,way
 "Calle de Ramón Rubial",wikidata,M,Q2608777,way
 "Concha jeneralaren kalea",wikidata,M,Q325762,way
 "Cosme Echevarrieta kalea",wikidata,M,Q22222556,way
