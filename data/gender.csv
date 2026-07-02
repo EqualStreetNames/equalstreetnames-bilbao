@@ -1,6 +1,5 @@
 name,source,gender,wikidata,type
 "Abandoibarra etorbidea",wikidata,-,Q2820167,way
-"Abandoibarra etorbidea - Avenida Abandoibarra",wikidata,-,Q2820167,way
 "Adiskidetasun kalea",wikidata,-,Q491,way
 "Altxerri kobaren kalea",wikidata,-,Q361060,way
 "Anboto kalea",wikidata,-,Q458478,way
@@ -27,10 +26,7 @@ name,source,gender,wikidata,type
 "Burgos kalearen atzealdea",wikidata,-,Q9580,way
 "Caceres kalea",wikidata,-,Q15678,way
 "Calle Canal de Deusto",wikidata,-,Q20492309,way
-"Calle Gasteiz",wikidata,-,Q14318,way
-"Calle Islas Canarias - Kanariar Uharteen kalea",wikidata,-,Q5813,way
 "Calle Nuestra Señora de Montserrat",wikidata,-,Q301779,way
-"Calle Zumarraga",wikidata,-,Q844508,way
 "Campo Volantin pasealekua",wikidata,-,Q18222404,way
 "Cantabria kalea",wikidata,-,Q3946,way
 "Catalunya kalea",wikidata,-,Q5705,way
@@ -48,13 +44,14 @@ name,source,gender,wikidata,type
 "Erronkari kalea",wikidata,-,Q578795,way
 "Esperanto kalea",wikidata,-,Q143,way
 "Euskadi plaza",wikidata,-,Q3995,way
+"Euskalduna zubia",wikidata,-,Q3396530,way
 "Extremadura kalea",wikidata,-,Q5777,way
 "Foru kalea",wikidata,-,Q5467181,way
 "Frank Gehry zubia",wikidata,-,Q20493009,way
 "Galizia kalea",wikidata,-,Q3908,way
 "Ganekogorta mendiaren kalea",wikidata,-,Q557130,way
 "Gas plaza",wikidata,-,Q24068063,way
-"Gasteiz kalea",wikidata,-,Q24008392,way
+"Gasteiz kalea",wikidata,-,Q14318;Q24008392,way
 "Gipuzkoa kalea",wikidata,-,Q95010,way
 "Goikolau Kobaren kalea",wikidata,-,Q11044871,way
 "Hernani kalea",wikidata,-,Q1441329,way
@@ -86,7 +83,6 @@ name,source,gender,wikidata,type
 "Plaza Barria",wikidata,-,Q12544101,way
 "Plaza de la Cantera",wikidata,-,Q188040,way
 "Posta kalea",wikidata,-,Q49845,way
-"Puente Euskalduna - Euskalduna zubia",wikidata,-,Q3396530,way
 "Puente del Diablo",wikidata,-,Q6674,way
 "Salbe zubia",wikidata,-,Q6465160,way
 "Salou kalea",wikidata,-,Q662789,way
@@ -100,10 +96,12 @@ name,source,gender,wikidata,type
 "Trenbideko etorbidea",wikidata,-,Q22667,way
 "Tutera kalea",wikidata,-,Q244747,way
 "Txakur kalea",wikidata,-,Q144,way
+"Venezuela plaza",wikidata,-,Q717,way
 "Zabalgune plaza",wikidata,-,Q24207656;Q8776333,way
 "Zorrotzaurreko erribera",wikidata,-,Q13405126,way
 "Zuberoa etorbidea",wikidata,-,Q673040,way
 Zubizuri,wikidata,-,Q227583,way
+"Zubizuri zubia",wikidata,-,Q227583,way
 "Zumaia kalea",wikidata,-,Q229659,way
 "Zumarraga kalea",wikidata,-,Q844508,way
 "Estrauntza kalea",wikidata,?,Q16493603;Q371207,way
