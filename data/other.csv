@@ -80,7 +80,7 @@ Aranekobidea,,,,way
 "Areatza kalea",,,,way
 "Areatzako zubia",,,,way
 "Arechavaleta kalea",,,,way
-Arenal,,,,relation
+"Arenal paselekua",,,,way
 "Arenatza kobaren kalea",,,,way
 "Aretxabaleta bidea",,,,way
 "Aretxabaleta kalea",,,,way
@@ -103,6 +103,7 @@ Arraizbidea,,,,way
 "Artazu kalea",,,,way
 "Artazubekoa etxaldea",,,,way
 Artazubidea,,,,way
+"Artazuriña Emparantza",,,,way
 "Artazuriña kalea",,,,way
 Artekale,,,,way
 Artigabidea,,,,way
@@ -309,7 +310,6 @@ Deustuibarra,,,,way
 "El Carmen plaza",,,,way
 "El Lazo pasealekua",,,,way
 "Elexabarri kalea",,,,way
-"Eliptikoa plaza",,,,way
 "Eliseo Migoya plaza",,,,way
 "Elizalde kalea",,,,way
 "Elizondo kalea",,,,way
@@ -707,6 +707,7 @@ Pagasarribidea,,,,way
 "Plaza Behekoa",,,,way
 "Plaza Biribila",,,,way
 "Plaza Doctor Fleming",,,,way
+"Plaza Eliptikoa",,,,way
 "Plaza Eugenio Olabarrieta",,,,way
 "Plaza Gorostizagatorre",,,,way
 "Plaza Haro",,,,way
@@ -722,6 +723,7 @@ Pagasarribidea,,,,way
 "Plaza de Almería",,,,way
 "Plaza de Haro",,,,way
 "Plaza de Urízar",,,,way
+"Plaza de la Musa de la música",,,,way
 "Plaza del Pato",,,,way
 "Plazuela Cocherito de Bilbao",,,,way
 "Plazuela de Felipa Zubicaray",,,,way
@@ -831,7 +833,7 @@ Supersur,,,,way
 "Tiboli kalea",,,,way
 "Tiboli zeharkalea",,,,way
 "Tolosa kalea",,,,way
-"Torres Quevedo ingeniariaren plaza",,,,way
+"Torres Quevedo ingeniariaren plaza",,,,relation
 "Torreurizar etxaldea",,,,way
 "Trauko kalea",,,,way
 "Trauko zeharkalea",,,,way
