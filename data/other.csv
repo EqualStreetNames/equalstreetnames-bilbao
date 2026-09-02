@@ -60,7 +60,6 @@ Aluzetabidea,,,,way
 "Antonio Eguiluz kalea",,,,way
 "Antonio Gaztañeta almirantearen kalea",,,,way
 "Apalategi kalea",,,,way
-"Arabella etxaldea",,,,way
 "Arabella kalea",,,,way
 "Aralar kalea",,,,way
 "Aranbarri Musikaria plaza",,,,way
@@ -118,6 +117,7 @@ Artigabidea,,,,way
 "Askatasuna etorbidea",,,,way
 "Ategorri Txakolindegia kalea",,,,way
 "Atxetabide kalea",,,,way
+Atxetabidea,,,,way
 "Atxetabidea kalea",,,,way
 "Atxuri kalea",,,,way
 "Auntzetxeta kalea",,,,way
@@ -168,7 +168,6 @@ Bedarra,,,,way
 "Begoñako Hilerriaren bidea",,,,way
 "Begoñalde etxaldea",,,,way
 "Begoñalde etxetalde",,,,way
-"Begoñazpi auzoa",,,,way
 "Begoñazpi kalea",,,,way
 "Behekobide kalea",,,,way
 "Beiti estrata",,,,way
@@ -196,6 +195,7 @@ Bidegorria,,,,way
 "Bilbao - Barakaldo bidegorria",,,,way
 "Bilbao Arena eskailerak",,,,way
 "Bilbao Arena sarbidea",,,,way
+"Bilbo Barria Enparantza",,,,relation
 "Bilbo ekialdeko saihesbidea",,,,way
 "Bilbo-Galdakao errepidea",,,,way
 "Bilbo-San Mamés sarbidea",,,,way
@@ -670,7 +670,6 @@ Miramarbidea,,,,way
 "Ornilla doktorearen kalea",,,,way
 "Orreagako guduaren kalea",,,,way
 "Ortutxueta kalea",,,,way
-"Ortuzar kalea",,,,way
 "Osasun Langileen plaza",,,,relation
 Otxarkoagabidea,,,,way
 "Pablo Alzola kalea",,,,way
@@ -679,6 +678,7 @@ Otxarkoagabidea,,,,way
 "Pagasarri bide zaharra",,,,way
 Pagasarribidea,,,,way
 "Pagoeta kalea",,,,way
+"Panera plaza",,,,way
 "Parque Etxebarria",,,,way
 "Parque Recreativo Botica Vieja",,,,relation
 "Parque Sintrabi",,,,relation
@@ -725,6 +725,7 @@ Pagasarribidea,,,,way
 "Plaza de Urízar",,,,way
 "Plaza de la Musa de la música",,,,way
 "Plaza del Pato",,,,way
+"Plazoleta Monte Arno",,,,way
 "Plazuela Cocherito de Bilbao",,,,way
 "Plazuela de Felipa Zubicaray",,,,way
 "Plentzia kalea",,,,way
@@ -833,7 +834,7 @@ Supersur,,,,way
 "Tiboli kalea",,,,way
 "Tiboli zeharkalea",,,,way
 "Tolosa kalea",,,,way
-"Torres Quevedo ingeniariaren plaza",,,,relation
+"Torres Quevedo ingeniariaren plaza",,,,way
 "Torreurizar etxaldea",,,,way
 "Trauko kalea",,,,way
 "Trauko zeharkalea",,,,way
@@ -898,7 +899,6 @@ Trokabidea,,,,way
 "Vista Alegre kalea",,,,way
 "Von Siemens plaza",,,,way
 "Xalbador kalea",,,,way
-"Xoko kalea",,,,way
 "Zabalaren zekarkalea",,,,way
 Zabalbide,,,,way
 "Zabalbide kalea",,,,way
